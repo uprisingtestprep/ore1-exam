@@ -1,0 +1,3152 @@
+[
+  {
+    "id": 1,
+    "domain": "anatomy",
+    "front": "What are the two main divisions of the skull?",
+    "back": "The neurocranium, which houses the brain, and the viscerocranium (facial skeleton), which forms the face and oral cavity."
+  },
+  {
+    "id": 2,
+    "domain": "anatomy",
+    "front": "Which teeth are most closely related to the floor of the maxillary sinus?",
+    "back": "The upper premolars and molars, especially teeth 16 and 26, which explains oro-antral communication risk after extraction and sinus-related toothache."
+  },
+  {
+    "id": 3,
+    "domain": "anatomy",
+    "front": "Fill in the blank: the maxilla's ___ process carries the upper teeth.",
+    "back": "Alveolar process."
+  },
+  {
+    "id": 4,
+    "domain": "anatomy",
+    "front": "Name the bony spine just anterior to the mandibular foramen used as a landmark for inferior alveolar nerve block.",
+    "back": "The lingula."
+  },
+  {
+    "id": 5,
+    "domain": "anatomy",
+    "front": "What does the mylohyoid line on the mandible separate?",
+    "back": "The sublingual space above from the submandibular space below."
+  },
+  {
+    "id": 6,
+    "domain": "anatomy",
+    "front": "Which cranial nerve supplies all four muscles of mastication?",
+    "back": "The mandibular division of the trigeminal nerve (V3)."
+  },
+  {
+    "id": 7,
+    "domain": "anatomy",
+    "front": "A patient clenches their teeth and you palpate a bulge over the angle of the mandible. Which muscle are you feeling?",
+    "back": "Masseter, a powerful elevator of the mandible."
+  },
+  {
+    "id": 8,
+    "domain": "anatomy",
+    "front": "Which muscle of mastication is unusual in producing protrusion and depression rather than elevation?",
+    "back": "Lateral pterygoid."
+  },
+  {
+    "id": 9,
+    "domain": "anatomy",
+    "front": "The superior head of lateral pterygoid inserts onto which two structures?",
+    "back": "The pterygoid fovea of the condyle and the articular disc/capsule of the temporomandibular joint."
+  },
+  {
+    "id": 10,
+    "domain": "anatomy",
+    "front": "What is the embryological origin and nerve supply of the muscles of facial expression?",
+    "back": "They derive from the second pharyngeal arch and are supplied entirely by the facial nerve (cranial nerve VII)."
+  },
+  {
+    "id": 11,
+    "domain": "anatomy",
+    "front": "A patient has drooping of one side of the face, cannot close that eye, but reports completely normal sensation. What is the diagnosis?",
+    "back": "Facial nerve palsy (for example Bell's palsy); sensation is normal because the trigeminal nerve is unaffected."
+  },
+  {
+    "id": 12,
+    "domain": "anatomy",
+    "front": "Which muscle compresses the cheek against the teeth during mastication, keeping food on the occlusal table?",
+    "back": "Buccinator."
+  },
+  {
+    "id": 13,
+    "domain": "anatomy",
+    "front": "Where does the trigeminal nerve arise from?",
+    "back": "The trigeminal (Gasserian/semilunar) ganglion, located in Meckel's cave."
+  },
+  {
+    "id": 14,
+    "domain": "anatomy",
+    "front": "Name the three divisions of the trigeminal nerve.",
+    "back": "Ophthalmic (V1), maxillary (V2) and mandibular (V3)."
+  },
+  {
+    "id": 15,
+    "domain": "anatomy",
+    "front": "Through which foramen does the maxillary nerve (V2) leave the skull?",
+    "back": "The foramen rotundum."
+  },
+  {
+    "id": 16,
+    "domain": "anatomy",
+    "front": "Which nerve supplies the maxillary molars, excluding the mesiobuccal root of the first molar in most patients?",
+    "back": "The posterior superior alveolar nerve."
+  },
+  {
+    "id": 17,
+    "domain": "anatomy",
+    "front": "True or false: the middle superior alveolar nerve is present in every patient.",
+    "back": "False. It is only present in around 50 to 70 percent of individuals; it supplies the premolars and, when present, the mesiobuccal root of the first molar."
+  },
+  {
+    "id": 18,
+    "domain": "anatomy",
+    "front": "Where does the greater palatine nerve typically emerge?",
+    "back": "At the greater palatine foramen, usually palatal to the second or third maxillary molar, supplying the posterior hard palate."
+  },
+  {
+    "id": 19,
+    "domain": "anatomy",
+    "front": "Which nerve is anaesthetised to numb the anterior hard palate from canine to canine?",
+    "back": "The nasopalatine nerve, which emerges at the incisive foramen palatal to the central incisors."
+  },
+  {
+    "id": 20,
+    "domain": "anatomy",
+    "front": "Through which foramen does the mandibular nerve (V3) exit the skull?",
+    "back": "The foramen ovale."
+  },
+  {
+    "id": 21,
+    "domain": "anatomy",
+    "front": "What is the sensory territory of the long buccal nerve?",
+    "back": "Buccal mucosa and gingiva adjacent to the mandibular molars; it must be blocked separately from the inferior alveolar nerve for buccal soft tissue anaesthesia there."
+  },
+  {
+    "id": 22,
+    "domain": "anatomy",
+    "front": "Which nerve is at risk during lower third molar surgery because of its superficial position near the lingual plate?",
+    "back": "The lingual nerve."
+  },
+  {
+    "id": 23,
+    "domain": "anatomy",
+    "front": "What does the lingual nerve supply, and what does it NOT carry?",
+    "back": "It supplies general sensation to the anterior two-thirds of the tongue, floor of mouth and lingual gingiva; it does not carry taste (taste travels via the chorda tympani, a branch of the facial nerve)."
+  },
+  {
+    "id": 24,
+    "domain": "anatomy",
+    "front": "Where does the mental nerve typically exit the mandible?",
+    "back": "At the mental foramen, usually below the second premolar (tooth 35 or 45)."
+  },
+  {
+    "id": 25,
+    "domain": "anatomy",
+    "front": "A patient reports a numb lower lip and chin after an inferior alveolar nerve block. What does this confirm?",
+    "back": "That the mental nerve, and therefore the whole inferior alveolar nerve trunk proximal to it, has been anaesthetised, indicating a successful block."
+  },
+  {
+    "id": 26,
+    "domain": "anatomy",
+    "front": "What is the principal artery supplying almost the entire upper and lower dentition?",
+    "back": "The maxillary artery, the larger terminal branch of the external carotid artery."
+  },
+  {
+    "id": 27,
+    "domain": "anatomy",
+    "front": "Which artery passes through the foramen spinosum, and why is this surgically important?",
+    "back": "The middle meningeal artery; its rupture following a temporal bone fracture causes an extradural haematoma."
+  },
+  {
+    "id": 28,
+    "domain": "anatomy",
+    "front": "Why must you aspirate before giving a posterior superior alveolar or inferior alveolar nerve block?",
+    "back": "Because the corresponding arteries run close to the nerve at these injection sites, and aspiration avoids inadvertent intravascular injection."
+  },
+  {
+    "id": 29,
+    "domain": "anatomy",
+    "front": "What is the danger triangle of the face?",
+    "back": "The area bounded by the corners of the mouth and the bridge of the nose, where valveless veins communicate with the cavernous sinus, risking cavernous sinus thrombosis from infection."
+  },
+  {
+    "id": 30,
+    "domain": "anatomy",
+    "front": "Which neck lymph node levels are most relevant to dental infection and early oral cancer spread?",
+    "back": "Levels I and II."
+  },
+  {
+    "id": 31,
+    "domain": "anatomy",
+    "front": "A firm, fixed, non-tender lymph node in a patient with a chronic oral ulcer should raise suspicion of what?",
+    "back": "Malignancy, rather than simple infective lymphadenopathy (which is usually tender, mobile and softer)."
+  },
+  {
+    "id": 32,
+    "domain": "anatomy",
+    "front": "Which salivary gland is traversed by the facial nerve?",
+    "back": "The parotid gland, where the facial nerve divides into five terminal branches."
+  },
+  {
+    "id": 33,
+    "domain": "anatomy",
+    "front": "Where does the parotid duct (Stensen's duct) open into the mouth?",
+    "back": "Opposite the maxillary second molar (tooth 17 or 27)."
+  },
+  {
+    "id": 34,
+    "domain": "anatomy",
+    "front": "Where does the submandibular duct (Wharton's duct) open?",
+    "back": "At the sublingual caruncle, either side of the lingual frenum on the floor of the mouth."
+  },
+  {
+    "id": 35,
+    "domain": "anatomy",
+    "front": "Why is Wharton's duct most prone to sialolithiasis?",
+    "back": "It is long, runs uphill against gravity in the upright posture, and has a relatively wide orifice."
+  },
+  {
+    "id": 36,
+    "domain": "anatomy",
+    "front": "What condition results from obstruction or trauma to a sublingual gland duct?",
+    "back": "A ranula, a bluish mucous extravasation swelling in the floor of the mouth."
+  },
+  {
+    "id": 37,
+    "domain": "anatomy",
+    "front": "What does FDI notation tooth 36 refer to?",
+    "back": "The permanent lower left first molar."
+  },
+  {
+    "id": 38,
+    "domain": "anatomy",
+    "front": "Which is usually the first permanent tooth to erupt, and at what age?",
+    "back": "The first permanent molar (tooth 16, 26, 36 or 46), at around six years of age, erupting distal to the second primary tooth with no primary predecessor lost."
+  },
+  {
+    "id": 39,
+    "domain": "anatomy",
+    "front": "How many teeth make up the full primary dentition?",
+    "back": "Twenty: two incisors, one canine and two molars in each of four quadrants."
+  },
+  {
+    "id": 40,
+    "domain": "anatomy",
+    "front": "What structure divides the temporomandibular joint into upper and lower compartments?",
+    "back": "The intra-articular disc."
+  },
+  {
+    "id": 41,
+    "domain": "anatomy",
+    "front": "Which type of movement occurs in the lower TMJ compartment versus the upper compartment?",
+    "back": "Rotational movement occurs in the lower compartment (disc-condyle); translational (gliding) movement occurs in the upper compartment (disc-temporal bone)."
+  },
+  {
+    "id": 42,
+    "domain": "anatomy",
+    "front": "A patient has a clicking jaw at a reproducible point during opening, but no locking. What TMJ disorder is this?",
+    "back": "Disc displacement with reduction: the disc slips anteriorly on closing but is recaptured by the condyle on opening."
+  },
+  {
+    "id": 43,
+    "domain": "anatomy",
+    "front": "A patient develops sudden, painful limitation of mouth opening with no click. What TMJ disorder does this suggest?",
+    "back": "Disc displacement without reduction, where the disc stays permanently anteriorly displaced and is not recaptured."
+  },
+  {
+    "id": 44,
+    "domain": "anatomy",
+    "front": "Infection from an upper premolar or molar perforating the buccal plate above buccinator's attachment spreads into which space?",
+    "back": "The buccal space, producing facial swelling."
+  },
+  {
+    "id": 45,
+    "domain": "anatomy",
+    "front": "Infection from a mandibular incisor perforating the lingual plate typically spreads into which space, and why?",
+    "back": "The sublingual space, because the roots of incisors, canines and premolars usually lie above the mylohyoid line."
+  },
+  {
+    "id": 46,
+    "domain": "anatomy",
+    "front": "Infection from a mandibular second or third molar perforating the lingual plate typically spreads into which space?",
+    "back": "The submandibular space, because these roots typically lie below the mylohyoid line."
+  },
+  {
+    "id": 47,
+    "domain": "anatomy",
+    "front": "What is Ludwig's angina?",
+    "back": "A rapidly progressive, bilateral cellulitis of the submandibular, sublingual and submental spaces, most often from an infected mandibular molar, threatening the airway by displacing the tongue posteriorly."
+  },
+  {
+    "id": 48,
+    "domain": "anatomy",
+    "front": "Which fascial space is classically associated with trismus following inferior alveolar nerve block or infected lower third molars?",
+    "back": "The pterygomandibular space, due to its proximity to medial pterygoid."
+  },
+  {
+    "id": 49,
+    "domain": "anatomy",
+    "front": "What is the clinical significance of the coronoid process of the mandible?",
+    "back": "It is the insertion point of temporalis, one of the four muscles of mastication."
+  },
+  {
+    "id": 50,
+    "domain": "anatomy",
+    "front": "How does injury to the trigeminal nerve after third molar surgery differ from facial nerve palsy in presentation?",
+    "back": "Trigeminal nerve injury causes altered sensation with normal facial movement, the opposite pattern to facial nerve palsy."
+  },
+  {
+    "id": 51,
+    "domain": "physiology_and_biochemistry",
+    "front": "What is unstimulated whole saliva flow rate, and how does it change with stimulation?",
+    "back": "Around 0.3 to 0.4 mL per minute unstimulated, rising to 1 to 2 mL per minute or more with stimulation such as chewing."
+  },
+  {
+    "id": 52,
+    "domain": "physiology_and_biochemistry",
+    "front": "Which buffer system dominates salivary buffering capacity?",
+    "back": "The bicarbonate-carbonic acid system, with contributions from phosphate and protein buffers."
+  },
+  {
+    "id": 53,
+    "domain": "physiology_and_biochemistry",
+    "front": "Why does stimulated saliva buffer acid better than resting saliva?",
+    "back": "Bicarbonate concentration rises steeply with flow rate."
+  },
+  {
+    "id": 54,
+    "domain": "physiology_and_biochemistry",
+    "front": "Which salivary proteins stabilise calcium and phosphate in solution to prevent spontaneous calculus precipitation?",
+    "back": "Statherin and proline-rich proteins."
+  },
+  {
+    "id": 55,
+    "domain": "physiology_and_biochemistry",
+    "front": "How does fluoride enhance enamel remineralisation biochemically?",
+    "back": "By forming fluorapatite and fluorhydroxyapatite, which are less soluble in acid than native hydroxyapatite."
+  },
+  {
+    "id": 56,
+    "domain": "physiology_and_biochemistry",
+    "front": "How does lysozyme act as an antimicrobial in saliva?",
+    "back": "It hydrolyses peptidoglycan, breaking down bacterial cell walls."
+  },
+  {
+    "id": 57,
+    "domain": "physiology_and_biochemistry",
+    "front": "What is the antimicrobial mechanism of lactoferrin?",
+    "back": "It sequesters free iron, depriving iron-dependent bacteria of a nutrient needed for growth."
+  },
+  {
+    "id": 58,
+    "domain": "physiology_and_biochemistry",
+    "front": "How does secretory immunoglobulin A protect the oral cavity?",
+    "back": "It mainly agglutinates bacteria and prevents their adhesion to tooth surfaces and mucosa, rather than activating complement."
+  },
+  {
+    "id": 59,
+    "domain": "physiology_and_biochemistry",
+    "front": "Why is a low-compliance pulp chamber clinically significant?",
+    "back": "Any rise in pulpal blood volume or fluid raises intrapulpal pressure and can compromise venous outflow before arterial inflow, contributing to progression to necrosis."
+  },
+  {
+    "id": 60,
+    "domain": "physiology_and_biochemistry",
+    "front": "Which pulpal nerve fibres mediate sharp, well-localised pain typical of reversible pulpitis?",
+    "back": "A-delta fibres, concentrated at the pulp-dentine border."
+  },
+  {
+    "id": 61,
+    "domain": "physiology_and_biochemistry",
+    "front": "According to the hydrodynamic theory, what actually triggers dentine sensitivity?",
+    "back": "Rapid movement of fluid within dentinal tubules deforming odontoblasts and nerve terminals at the pulp-dentine border."
+  },
+  {
+    "id": 62,
+    "domain": "physiology_and_biochemistry",
+    "front": "Why are cold stimuli and evaporation the most potent triggers of dentine hypersensitivity?",
+    "back": "They cause outward fluid movement and therefore produce the most rapid tubular fluid flow."
+  },
+  {
+    "id": 63,
+    "domain": "physiology_and_biochemistry",
+    "front": "How does a potassium nitrate desensitising agent work, and why might relief be delayed?",
+    "back": "It diffuses along the tubule to reduce nerve excitability itself; relief takes time because excitability changes accumulate with repeated application, unlike tubule-occluding agents that give more immediate relief."
+  },
+  {
+    "id": 64,
+    "domain": "physiology_and_biochemistry",
+    "front": "Name the three principal bone cell types and their origins.",
+    "back": "Osteoblasts (from mesenchymal stem cells, form matrix), osteocytes (former osteoblasts, mechanosensors), and osteoclasts (from the monocyte-macrophage lineage, resorb bone)."
+  },
+  {
+    "id": 65,
+    "domain": "physiology_and_biochemistry",
+    "front": "What enzyme do osteoclasts use to degrade the organic bone matrix?",
+    "back": "Cathepsin K."
+  },
+  {
+    "id": 66,
+    "domain": "physiology_and_biochemistry",
+    "front": "Fill in the blank: RANKL binding to ___ on osteoclast precursors stimulates their differentiation and activation.",
+    "back": "RANK."
+  },
+  {
+    "id": 67,
+    "domain": "physiology_and_biochemistry",
+    "front": "What is the role of osteoprotegerin in bone remodelling?",
+    "back": "It acts as a decoy receptor that binds RANKL, preventing it from activating RANK and thereby inhibiting osteoclastogenesis."
+  },
+  {
+    "id": 68,
+    "domain": "physiology_and_biochemistry",
+    "front": "How do nitrogen-containing bisphosphonates impair osteoclasts once internalised?",
+    "back": "They inhibit the mevalonate pathway within the osteoclast, impairing its cytoskeletal function and promoting apoptosis."
+  },
+  {
+    "id": 69,
+    "domain": "physiology_and_biochemistry",
+    "front": "How does denosumab's mechanism differ from bisphosphonates, and what is the clinical consequence?",
+    "back": "Denosumab is a monoclonal antibody that directly binds RANKL; unlike bisphosphonates, which remain bound in bone for years, its effect is reversible over months as the drug clears."
+  },
+  {
+    "id": 70,
+    "domain": "physiology_and_biochemistry",
+    "front": "Why are the jaws particularly vulnerable to MRONJ compared with the rest of the skeleton?",
+    "back": "They have an unusually high rate of bone remodelling due to the mechanical demands of mastication and constant low-grade challenge from the oral microbiome."
+  },
+  {
+    "id": 71,
+    "domain": "physiology_and_biochemistry",
+    "front": "What mediates the initial adhesion of platelets to exposed subendothelial collagen?",
+    "back": "Von Willebrand factor, bridging platelet glycoprotein receptors to collagen."
+  },
+  {
+    "id": 72,
+    "domain": "physiology_and_biochemistry",
+    "front": "Which receptor mediates platelet aggregation via fibrinogen bridging?",
+    "back": "Glycoprotein IIb/IIIa."
+  },
+  {
+    "id": 73,
+    "domain": "physiology_and_biochemistry",
+    "front": "Which clotting factors does warfarin inhibit the synthesis of, and how is its effect monitored?",
+    "back": "Vitamin K-dependent factors II, VII, IX and X; monitored via the international normalised ratio (INR)."
+  },
+  {
+    "id": 74,
+    "domain": "physiology_and_biochemistry",
+    "front": "How do direct oral anticoagulants (DOACs) act, and how does this differ from warfarin monitoring?",
+    "back": "Apixaban and rivaroxaban directly inhibit factor Xa, and dabigatran directly inhibits thrombin; they do not require routine monitoring because their effect is more predictable."
+  },
+  {
+    "id": 75,
+    "domain": "physiology_and_biochemistry",
+    "front": "What is current UK guidance for most straightforward extractions in patients on warfarin, DOACs or antiplatelet drugs?",
+    "back": "Continue the medication (with an appropriate INR check for warfarin) and manage bleeding with local haemostatic measures, since the systemic thromboembolic risk of stopping outweighs local bleeding risk."
+  },
+  {
+    "id": 76,
+    "domain": "physiology_and_biochemistry",
+    "front": "What primarily drives central respiratory chemoreceptors?",
+    "back": "Arterial carbon dioxide tension, sensed via cerebrospinal fluid pH."
+  },
+  {
+    "id": 77,
+    "domain": "physiology_and_biochemistry",
+    "front": "What safety measures are mandatory during conscious sedation because of respiratory depression risk?",
+    "back": "Continuous pulse oximetry, clinical observation of respiratory rate and depth, and a second appropriately trained team member present."
+  },
+  {
+    "id": 78,
+    "domain": "physiology_and_biochemistry",
+    "front": "Why does poorly controlled hyperglycaemia worsen periodontal disease severity?",
+    "back": "Advanced glycation end products accumulate, impairing neutrophil chemotaxis and phagocytosis and promoting a pro-inflammatory macrophage phenotype, plus microvascular changes impairing healing."
+  },
+  {
+    "id": 79,
+    "domain": "physiology_and_biochemistry",
+    "front": "How does severe periodontitis worsen glycaemic control in a diabetic patient?",
+    "back": "It raises systemic inflammatory mediators such as tumour necrosis factor alpha, which can worsen insulin resistance."
+  },
+  {
+    "id": 80,
+    "domain": "physiology_and_biochemistry",
+    "front": "Why should adrenaline-containing local anaesthetic be used cautiously in poorly controlled hyperthyroidism?",
+    "back": "Hyperthyroid patients have heightened sympathetic sensitivity, risking a thyroid storm or significant cardiac arrhythmia."
+  },
+  {
+    "id": 81,
+    "domain": "physiology_and_biochemistry",
+    "front": "What can precipitate an Addisonian crisis in a dental patient?",
+    "back": "Inadequate cortisol response to the stress of a surgical or highly anxiety-provoking procedure in a patient with suppressed adrenal function."
+  },
+  {
+    "id": 82,
+    "domain": "physiology_and_biochemistry",
+    "front": "Which two bacteria are principally responsible for fermenting dietary carbohydrates into lactic acid in caries?",
+    "back": "Streptococcus mutans and Lactobacillus species."
+  },
+  {
+    "id": 83,
+    "domain": "physiology_and_biochemistry",
+    "front": "Why is sucrose uniquely cariogenic compared with other sugars?",
+    "back": "It is used by Streptococcus mutans both as an energy source and as a substrate for glucosyltransferase, which builds sticky extracellular glucans that increase bacterial adhesion."
+  },
+  {
+    "id": 84,
+    "domain": "physiology_and_biochemistry",
+    "front": "What does the Stephan curve plot?",
+    "back": "Plaque pH against time following a carbohydrate challenge."
+  },
+  {
+    "id": 85,
+    "domain": "physiology_and_biochemistry",
+    "front": "What is the approximate critical pH for enamel demineralisation?",
+    "back": "Approximately 5.5."
+  },
+  {
+    "id": 86,
+    "domain": "physiology_and_biochemistry",
+    "front": "Why is exposed root dentine more vulnerable to caries at a higher pH than intact enamel?",
+    "back": "The critical pH for root dentine and cementum is higher, around 6.0 to 6.7, compared with 5.5 for enamel."
+  },
+  {
+    "id": 87,
+    "domain": "physiology_and_biochemistry",
+    "front": "Why does sugar exposure frequency matter more than total quantity for caries risk?",
+    "back": "Frequent exposures keep plaque pH depressed for prolonged periods, overwhelming remineralisation capacity, whereas one large exposure produces a single, more manageable Stephan curve."
+  },
+  {
+    "id": 88,
+    "domain": "physiology_and_biochemistry",
+    "front": "How does fluoride reduce bacterial acid production directly?",
+    "back": "It inhibits glycolytic enzymes such as enolase within cariogenic bacteria."
+  },
+  {
+    "id": 89,
+    "domain": "physiology_and_biochemistry",
+    "front": "What stimulates parathyroid hormone release, and what are its three main actions?",
+    "back": "A fall in serum ionised calcium; PTH stimulates osteoclastic bone resorption, increases renal calcium reabsorption while promoting phosphate excretion, and stimulates renal conversion of vitamin D to calcitriol."
+  },
+  {
+    "id": 90,
+    "domain": "physiology_and_biochemistry",
+    "front": "What is the normal range for arterial blood pH?",
+    "back": "7.35 to 7.45."
+  },
+  {
+    "id": 91,
+    "domain": "oral_pathology_and_human_disease",
+    "front": "What is the earliest visible histological change in enamel caries?",
+    "back": "The white spot lesion, a subsurface zone of demineralisation beneath a relatively intact surface layer."
+  },
+  {
+    "id": 92,
+    "domain": "oral_pathology_and_human_disease",
+    "front": "List the four histological zones of an enamel caries lesion from the advancing front outward.",
+    "back": "Translucent zone, dark zone, body of the lesion, and the intact surface zone."
+  },
+  {
+    "id": 93,
+    "domain": "oral_pathology_and_human_disease",
+    "front": "Why does dentine caries progress faster than enamel caries?",
+    "back": "Dentine has lower mineral content and its tubular structure provides a direct pathway for bacterial acids and bacteria toward the pulp."
+  },
+  {
+    "id": 94,
+    "domain": "oral_pathology_and_human_disease",
+    "front": "What is the difference between reactionary and reparative dentine?",
+    "back": "Reactionary dentine forms beneath a slowly advancing insult by existing odontoblasts; reparative dentine forms after odontoblast death by newly recruited, less tubular, more irregular odontoblast-like cells."
+  },
+  {
+    "id": 95,
+    "domain": "oral_pathology_and_human_disease",
+    "front": "What is the classic radiographic shape of an interproximal caries lesion in enamel?",
+    "back": "Triangular, with the base at the enamel surface and the apex pointing toward the dentine."
+  },
+  {
+    "id": 96,
+    "domain": "oral_pathology_and_human_disease",
+    "front": "How does cervical burnout differ from true cervical caries radiographically?",
+    "back": "Cervical burnout has ill-defined, symmetric borders with no corresponding clinical cavity, while true cervical caries is usually detectable on probing and often asymmetric."
+  },
+  {
+    "id": 97,
+    "domain": "oral_pathology_and_human_disease",
+    "front": "A tooth has sharp, short-lived pain to cold that resolves within seconds. What is the diagnosis and prognosis?",
+    "back": "Reversible pulpitis; the pulp can heal if the causative factor is removed."
+  },
+  {
+    "id": 98,
+    "domain": "oral_pathology_and_human_disease",
+    "front": "A tooth has spontaneous, poorly localised, throbbing pain that is worse lying down. What is the diagnosis and management?",
+    "back": "Irreversible pulpitis; it requires root canal treatment or extraction, as the pulp cannot heal."
+  },
+  {
+    "id": 99,
+    "domain": "oral_pathology_and_human_disease",
+    "front": "What is a periapical granuloma?",
+    "back": "A localised mass of chronically inflamed granulation tissue at the root apex, the most common sequela of a necrotic pulp."
+  },
+  {
+    "id": 100,
+    "domain": "oral_pathology_and_human_disease",
+    "front": "How does a radicular cyst arise?",
+    "back": "From proliferation of the epithelial rests of Malassez within an existing periapical granuloma, stimulated by chronic inflammation."
+  },
+  {
+    "id": 101,
+    "domain": "oral_pathology_and_human_disease",
+    "front": "Can a periapical granuloma be reliably distinguished from a radicular cyst on radiograph alone?",
+    "back": "No, histological examination after extraction or endodontic surgery is definitive, though a well-corticated radiolucency favours a cyst."
+  },
+  {
+    "id": 102,
+    "domain": "oral_pathology_and_human_disease",
+    "front": "What is a residual cyst?",
+    "back": "A radicular cyst that persists in the jaw after extraction of the associated tooth."
+  },
+  {
+    "id": 103,
+    "domain": "oral_pathology_and_human_disease",
+    "front": "What is condensing osteitis and where is it typically seen?",
+    "back": "A localised radiopaque reaction of bone to chronic low-grade pulpal/periapical inflammation, most commonly at the apex of a mandibular first molar with a large carious lesion."
+  },
+  {
+    "id": 104,
+    "domain": "oral_pathology_and_human_disease",
+    "front": "How does idiopathic osteosclerosis differ from condensing osteitis?",
+    "back": "Idiopathic osteosclerosis is a developmental variant at a vital, asymptomatic tooth with no caries history, remaining stable over years; condensing osteitis occurs at a symptomatic or previously diseased tooth and may resolve with treatment."
+  },
+  {
+    "id": 105,
+    "domain": "oral_pathology_and_human_disease",
+    "front": "A well-defined periapical radiopacity is seen next to a tooth with no caries, an intact lamina dura and a normal pulp test. What is the most likely diagnosis?",
+    "back": "Idiopathic osteosclerosis (dense bone island); no treatment is needed."
+  },
+  {
+    "id": 106,
+    "domain": "oral_pathology_and_human_disease",
+    "front": "Where does a dentigerous cyst typically arise and what does it envelop?",
+    "back": "From fluid accumulation between the reduced enamel epithelium and the crown of an unerupted tooth (often mandibular third molar or maxillary canine), symmetrically enveloping the crown at the amelocemental junction."
+  },
+  {
+    "id": 107,
+    "domain": "oral_pathology_and_human_disease",
+    "front": "Why does an odontogenic keratocyst have a high recurrence rate?",
+    "back": "Its thin, friable, parakeratinised lining with a corrugated surface and satellite (daughter) cysts within the wall make complete removal difficult."
+  },
+  {
+    "id": 108,
+    "domain": "oral_pathology_and_human_disease",
+    "front": "Multiple odontogenic keratocysts at a young age should raise suspicion for which syndrome, and what else features in it?",
+    "back": "Gorlin-Goltz (naevoid basal cell carcinoma) syndrome, which also features multiple basal cell carcinomas, bifid ribs and calcification of the falx cerebri."
+  },
+  {
+    "id": 109,
+    "domain": "oral_pathology_and_human_disease",
+    "front": "What is the classic radiographic appearance of ameloblastoma?",
+    "back": "A multilocular \"soap bubble\" or \"honeycomb\" radiolucency, most often in the posterior mandible, with cortical expansion and root resorption."
+  },
+  {
+    "id": 110,
+    "domain": "oral_pathology_and_human_disease",
+    "front": "Why is histology mandatory whenever a cystic jaw lesion is excised?",
+    "back": "A unicystic ameloblastoma can radiographically mimic a dentigerous cyst."
+  },
+  {
+    "id": 111,
+    "domain": "oral_pathology_and_human_disease",
+    "front": "What distinguishes cementoblastoma radiographically from condensing osteitis?",
+    "back": "Cementoblastoma is a well-defined, round radiopaque mass with a radiolucent rim that is fused to the root, whereas condensing osteitis is irregular and not fused to the root."
+  },
+  {
+    "id": 112,
+    "domain": "oral_pathology_and_human_disease",
+    "front": "What is the difference between a compound and a complex odontoma?",
+    "back": "A compound odontoma has multiple small tooth-like denticles, typically in the anterior maxilla; a complex odontoma is a disorganised mass of enamel, dentine and cementum with no tooth-like morphology, typically in the posterior mandible."
+  },
+  {
+    "id": 113,
+    "domain": "oral_pathology_and_human_disease",
+    "front": "What are Wickham's striae, and where are they classically seen?",
+    "back": "Bilateral, symmetrical white lace-like striations on the buccal mucosa, characteristic of oral lichen planus."
+  },
+  {
+    "id": 114,
+    "domain": "oral_pathology_and_human_disease",
+    "front": "Which forms of oral lichen planus carry a small but recognised risk of malignant transformation?",
+    "back": "Erosive and atrophic lichen planus."
+  },
+  {
+    "id": 115,
+    "domain": "oral_pathology_and_human_disease",
+    "front": "How is leukoplakia defined?",
+    "back": "A clinical diagnostic term for a white patch that cannot be rubbed off and cannot be characterised as any other definable lesion; it is a diagnosis of exclusion."
+  },
+  {
+    "id": 116,
+    "domain": "oral_pathology_and_human_disease",
+    "front": "Which type of leukoplakia carries a higher malignant transformation risk, homogeneous or non-homogeneous?",
+    "back": "Non-homogeneous (speckled, nodular or verrucous) leukoplakia."
+  },
+  {
+    "id": 117,
+    "domain": "oral_pathology_and_human_disease",
+    "front": "Why must erythroplakia always be biopsied without delay?",
+    "back": "It carries a substantially higher risk than leukoplakia of harbouring severe dysplasia, carcinoma in situ or invasive carcinoma at the time of biopsy."
+  },
+  {
+    "id": 118,
+    "domain": "oral_pathology_and_human_disease",
+    "front": "A denture wearer has erythematous, sore mucosa confined to the palatal denture-bearing area. What is the diagnosis?",
+    "back": "Denture-related stomatitis, an erythematous form of oral candidiasis."
+  },
+  {
+    "id": 119,
+    "domain": "oral_pathology_and_human_disease",
+    "front": "Which form of oral candidiasis presents as removable white plaques revealing an erythematous base?",
+    "back": "Pseudomembranous candidiasis (thrush)."
+  },
+  {
+    "id": 120,
+    "domain": "oral_pathology_and_human_disease",
+    "front": "Which form of oral candidiasis carries its own risk of dysplasia and should be biopsied?",
+    "back": "Chronic hyperplastic candidiasis, a white patch that does not rub off."
+  },
+  {
+    "id": 121,
+    "domain": "oral_pathology_and_human_disease",
+    "front": "Distinguish minor and major aphthous ulcers by size and healing.",
+    "back": "Minor ulcers are under 1 cm and heal in 7 to 14 days without scarring; major ulcers exceed 1 cm, take weeks to heal and may scar."
+  },
+  {
+    "id": 122,
+    "domain": "oral_pathology_and_human_disease",
+    "front": "What systemic conditions should be considered with major or atypical recurrent aphthous ulcers?",
+    "back": "Haematinic deficiency (iron, folate, B12), coeliac disease, Crohn's disease, ulcerative colitis or Behcet's disease."
+  },
+  {
+    "id": 123,
+    "domain": "oral_pathology_and_human_disease",
+    "front": "What features warrant an urgent two-week-wait suspected oral cancer referral?",
+    "back": "An ulcer persisting beyond three weeks, unexplained red or red-and-white patch, unexplained swelling/induration/fixation, unexplained tooth mobility not from periodontal disease, or a persistent unexplained neck lump."
+  },
+  {
+    "id": 124,
+    "domain": "oral_pathology_and_human_disease",
+    "front": "Which two risk factors act synergistically as the dominant cause of oral squamous cell carcinoma?",
+    "back": "Tobacco use and alcohol."
+  },
+  {
+    "id": 125,
+    "domain": "oral_pathology_and_human_disease",
+    "front": "Which HPV subtype is increasingly recognised as a cause of oropharyngeal cancer in non-smokers?",
+    "back": "HPV-16."
+  },
+  {
+    "id": 126,
+    "domain": "oral_pathology_and_human_disease",
+    "front": "Why does sialolithiasis most commonly affect the submandibular gland?",
+    "back": "Its saliva is more mucous, alkaline and calcium-rich, and Wharton's duct runs an upward, tortuous course, favouring stagnation and stone formation."
+  },
+  {
+    "id": 127,
+    "domain": "oral_pathology_and_human_disease",
+    "front": "What distinguishes a mucus extravasation cyst from a mucus retention cyst?",
+    "back": "Extravasation results from duct trauma with mucin spilling into connective tissue with no true epithelial lining (the more common type); retention occurs within a dilated but intact duct."
+  },
+  {
+    "id": 128,
+    "domain": "oral_pathology_and_human_disease",
+    "front": "What is a ranula?",
+    "back": "A mucocele of the floor of the mouth arising from the sublingual gland."
+  },
+  {
+    "id": 129,
+    "domain": "oral_pathology_and_human_disease",
+    "front": "What two symptoms characterise Sjogren's syndrome, and what lymphoma risk is it associated with?",
+    "back": "Xerostomia and xerophthalmia (keratoconjunctivitis sicca); it carries an elevated risk of MALT lymphoma in affected salivary glands."
+  },
+  {
+    "id": 130,
+    "domain": "oral_pathology_and_human_disease",
+    "front": "What is the most common salivary gland neoplasm overall?",
+    "back": "Pleomorphic adenoma."
+  },
+  {
+    "id": 131,
+    "domain": "oral_pathology_and_human_disease",
+    "front": "Fill in the blank: amelogenesis imperfecta can be classified as hypoplastic, ___, or hypomature.",
+    "back": "Hypomineralised."
+  },
+  {
+    "id": 132,
+    "domain": "oral_pathology_and_human_disease",
+    "front": "What is the classic clinical appearance of teeth in dentinogenesis imperfecta?",
+    "back": "Blue-grey to amber, translucent (opalescent), with enamel that fractures away readily from the abnormal underlying dentine."
+  },
+  {
+    "id": 133,
+    "domain": "oral_pathology_and_human_disease",
+    "front": "Which condition is dentinogenesis imperfecta sometimes associated with?",
+    "back": "Osteogenesis imperfecta (type I)."
+  },
+  {
+    "id": 134,
+    "domain": "oral_pathology_and_human_disease",
+    "front": "Excluding third molars, which teeth are most commonly congenitally absent?",
+    "back": "Mandibular second premolars, maxillary lateral incisors and maxillary second premolars."
+  },
+  {
+    "id": 135,
+    "domain": "oral_pathology_and_human_disease",
+    "front": "What is a mesiodens?",
+    "back": "A conical supernumerary tooth in the midline of the anterior maxilla, the most common supernumerary tooth."
+  },
+  {
+    "id": 136,
+    "domain": "oral_pathology_and_human_disease",
+    "front": "How do fusion and gemination differ in their effect on total tooth count?",
+    "back": "Fusion reduces total tooth count by one (two germs unite); gemination preserves normal tooth count (one germ incompletely divides, producing a bifid crown with a single root)."
+  },
+  {
+    "id": 137,
+    "domain": "oral_pathology_and_human_disease",
+    "front": "What oral feature results from iron deficiency anaemia affecting the tongue?",
+    "back": "Atrophic glossitis, a smooth, erythematous, depapillated tongue."
+  },
+  {
+    "id": 138,
+    "domain": "oral_pathology_and_human_disease",
+    "front": "What is Plummer-Vinson syndrome and why is it a red flag?",
+    "back": "Iron deficiency anaemia, dysphagia and oesophageal webs, carrying an increased risk of postcricoid and oral squamous cell carcinoma."
+  },
+  {
+    "id": 139,
+    "domain": "oral_pathology_and_human_disease",
+    "front": "What is oral hairy leukoplakia, and is it premalignant?",
+    "back": "A corrugated white lesion on the lateral tongue border caused by Epstein-Barr virus, associated with HIV; it does not rub off but is not premalignant."
+  },
+  {
+    "id": 140,
+    "domain": "oral_pathology_and_human_disease",
+    "front": "Which virus is associated with Kaposi's sarcoma, and where does it classically present in the mouth?",
+    "back": "Human herpesvirus 8; it classically presents as a red-purple macule or nodule, often on the palate."
+  },
+  {
+    "id": 141,
+    "domain": "oral_pathology_and_human_disease",
+    "front": "How do pemphigus vulgaris and mucous membrane pemphigoid differ histologically?",
+    "back": "Pemphigus vulgaris shows an intraepithelial (suprabasal) split with autoantibodies against desmoglein; mucous membrane pemphigoid shows a subepithelial split."
+  },
+  {
+    "id": 142,
+    "domain": "oral_pathology_and_human_disease",
+    "front": "What is the Nikolsky sign, and which condition is it associated with?",
+    "back": "Induction of blistering/erosion with lateral pressure on apparently normal mucosa, positive in pemphigus vulgaris."
+  },
+  {
+    "id": 143,
+    "domain": "oral_pathology_and_human_disease",
+    "front": "Why is conjunctival involvement in mucous membrane pemphigoid particularly significant?",
+    "back": "It carries a tendency to scar, risking blindness."
+  },
+  {
+    "id": 144,
+    "domain": "oral_pathology_and_human_disease",
+    "front": "What is MRONJ, and how long must bone be exposed for the diagnosis?",
+    "back": "Medication-related osteonecrosis of the jaw: exposed, necrotic bone in the maxillofacial region persisting for more than eight weeks in a patient on antiresorptive or antiangiogenic therapy, with no history of jaw radiotherapy."
+  },
+  {
+    "id": 145,
+    "domain": "oral_pathology_and_human_disease",
+    "front": "Is MRONJ risk higher with oral bisphosphonates for osteoporosis or intravenous oncological antiresorptive therapy?",
+    "back": "Intravenous, high-dose oncological antiresorptive therapy carries substantially higher risk."
+  },
+  {
+    "id": 146,
+    "domain": "oral_pathology_and_human_disease",
+    "front": "What is the current UK guidance on continuing antiresorptive therapy around extraction?",
+    "back": "Generally continue (rather than routinely stop) the drug, using atraumatic technique, since discontinuation has not reliably been shown to reduce risk."
+  },
+  {
+    "id": 147,
+    "domain": "oral_pathology_and_human_disease",
+    "front": "A patient develops rapid, unexplained oral candidiasis with no obvious local cause. What systemic condition should be considered?",
+    "back": "Poorly controlled diabetes or HIV infection (immunosuppression)."
+  },
+  {
+    "id": 148,
+    "domain": "oral_pathology_and_human_disease",
+    "front": "What is the trigger for an oral lichenoid reaction that mimics lichen planus?",
+    "back": "Dental materials (commonly amalgam, in direct topographical contact with the lesion) or drugs such as NSAIDs and antihypertensives."
+  },
+  {
+    "id": 149,
+    "domain": "oral_pathology_and_human_disease",
+    "front": "How does proliferative verrucous leukoplakia differ from ordinary leukoplakia?",
+    "back": "It is a distinct, more aggressive multifocal variant with a high rate of malignant transformation."
+  },
+  {
+    "id": 150,
+    "domain": "oral_pathology_and_human_disease",
+    "front": "What histological feature distinguishes true caries progression from a static hole?",
+    "back": "Caries is a continuum of subsurface demineralisation with distinct histological zones, not a fixed cavity."
+  },
+  {
+    "id": 151,
+    "domain": "microbiology_and_immunology",
+    "front": "What is the acquired pellicle, and how quickly does it form?",
+    "back": "A film of salivary glycoproteins (proline-rich proteins, statherins, mucins) adsorbed onto enamel; it forms within minutes of a clean tooth surface being exposed to saliva."
+  },
+  {
+    "id": 152,
+    "domain": "microbiology_and_immunology",
+    "front": "Which bacterial groups dominate early biofilm colonisation?",
+    "back": "Gram-positive facultative anaerobes, including Streptococcus sanguinis, Streptococcus oralis, Streptococcus mitis and Actinomyces species."
+  },
+  {
+    "id": 153,
+    "domain": "microbiology_and_immunology",
+    "front": "How do early colonisers prepare the environment for late colonisers?",
+    "back": "They consume the small amount of available oxygen, lowering the redox potential and creating conditions favourable for anaerobic organisms."
+  },
+  {
+    "id": 154,
+    "domain": "microbiology_and_immunology",
+    "front": "Define coaggregation in the context of dental plaque.",
+    "back": "A process where one bacterial species binds directly to receptors on the surface of another, bridging early and late biofilm colonisers."
+  },
+  {
+    "id": 155,
+    "domain": "microbiology_and_immunology",
+    "front": "Which organism is described as the key bridging species between early Gram-positive and late Gram-negative colonisers?",
+    "back": "Fusobacterium nucleatum."
+  },
+  {
+    "id": 156,
+    "domain": "microbiology_and_immunology",
+    "front": "Name three late colonisers of dental plaque associated with periodontal disease.",
+    "back": "Porphyromonas gingivalis, Tannerella forsythia and Treponema denticola (among others such as Prevotella intermedia and Aggregatibacter actinomycetemcomitans)."
+  },
+  {
+    "id": 157,
+    "domain": "microbiology_and_immunology",
+    "front": "What two properties allow Streptococcus mutans to dominate a high-sugar biofilm?",
+    "back": "It is acidogenic (produces large amounts of lactic acid) and aciduric (can survive and metabolise at low pH)."
+  },
+  {
+    "id": 158,
+    "domain": "microbiology_and_immunology",
+    "front": "What role do Lactobacillus species play in caries compared with Streptococcus mutans?",
+    "back": "They become more prominent once a carious lesion has already formed, contributing to progression rather than initiation."
+  },
+  {
+    "id": 159,
+    "domain": "microbiology_and_immunology",
+    "front": "Which three bacteria make up the red complex, and what is it associated with?",
+    "back": "Porphyromonas gingivalis, Tannerella forsythia and Treponema denticola; strongly associated with established periodontitis, including deep pocketing and attachment loss."
+  },
+  {
+    "id": 160,
+    "domain": "microbiology_and_immunology",
+    "front": "Why is Porphyromonas gingivalis called a keystone pathogen?",
+    "back": "Even at low abundance it can disproportionately disrupt the subgingival community balance and dysregulate the host immune response."
+  },
+  {
+    "id": 161,
+    "domain": "microbiology_and_immunology",
+    "front": "What are gingipains and what do they do?",
+    "back": "Cysteine proteases produced by Porphyromonas gingivalis that degrade host proteins, disable complement regulation and interfere with neutrophil function."
+  },
+  {
+    "id": 162,
+    "domain": "microbiology_and_immunology",
+    "front": "What is the microbiological character of a typical odontogenic infection?",
+    "back": "Polymicrobial, a mixture of aerobic and anaerobic organisms, with anaerobes often predominating once an abscess is established."
+  },
+  {
+    "id": 163,
+    "domain": "microbiology_and_immunology",
+    "front": "Why is metronidazole often added in more severe odontogenic infections?",
+    "back": "To provide anaerobic cover, since odontogenic infections are typically mixed aerobic-anaerobic."
+  },
+  {
+    "id": 164,
+    "domain": "microbiology_and_immunology",
+    "front": "What determines whether odontogenic infection spreads buccally, lingually or into a deep space?",
+    "back": "The relationship between the site of cortical bone perforation and the attachments of nearby muscles, chiefly buccinator and mylohyoid."
+  },
+  {
+    "id": 165,
+    "domain": "microbiology_and_immunology",
+    "front": "Which spaces are simultaneously involved bilaterally in Ludwig's angina?",
+    "back": "The submandibular, sublingual and submental spaces."
+  },
+  {
+    "id": 166,
+    "domain": "microbiology_and_immunology",
+    "front": "Why might Ludwig's angina not fluctuate on palpation like a typical abscess?",
+    "back": "It is a diffuse cellulitis rather than a discrete pus collection."
+  },
+  {
+    "id": 167,
+    "domain": "microbiology_and_immunology",
+    "front": "A patient presents with a rapidly enlarging floor-of-mouth swelling, drooling and a muffled voice. What is the immediate action?",
+    "back": "Immediate emergency hospital referral for airway assessment, since this suggests Ludwig's angina, a genuine airway emergency."
+  },
+  {
+    "id": 168,
+    "domain": "microbiology_and_immunology",
+    "front": "How does infection spread from the face to the cavernous sinus?",
+    "back": "Via valveless facial veins connecting through the ophthalmic veins to the cavernous sinus."
+  },
+  {
+    "id": 169,
+    "domain": "microbiology_and_immunology",
+    "front": "What clinical sign distinguishes cavernous sinus thrombosis from simple periorbital cellulitis?",
+    "back": "Bilateral eye involvement (the cavernous sinus is a shared venous structure), whereas periorbital cellulitis is usually unilateral."
+  },
+  {
+    "id": 170,
+    "domain": "microbiology_and_immunology",
+    "front": "Name two mechanisms bacteria use to develop antimicrobial resistance.",
+    "back": "Enzymatic drug inactivation (for example beta-lactamase against penicillins) and altered target sites reducing drug binding (also reduced membrane permeability or efflux pumps)."
+  },
+  {
+    "id": 171,
+    "domain": "microbiology_and_immunology",
+    "front": "How do resistance genes commonly spread between different bacterial species?",
+    "back": "Through horizontal gene transfer via plasmids."
+  },
+  {
+    "id": 172,
+    "domain": "microbiology_and_immunology",
+    "front": "According to UK stewardship guidance, how should a simple, well-defined, drainable periapical abscess with no systemic involvement be managed?",
+    "back": "By removing the source through drainage, extraction or root canal treatment, not by prescribing antibiotics."
+  },
+  {
+    "id": 173,
+    "domain": "microbiology_and_immunology",
+    "front": "Name three situations where antibiotics are indicated in dentistry.",
+    "back": "Evidence of spreading infection (cellulitis, lymphadenopathy, trismus, facial swelling), systemic signs of infection (fever, malaise, raised inflammatory markers), or an immunocompromised patient."
+  },
+  {
+    "id": 174,
+    "domain": "microbiology_and_immunology",
+    "front": "What is the current UK position on antibiotic prophylaxis for infective endocarditis before routine dental procedures?",
+    "back": "It is not routinely recommended, given the evidence balance, although individualised decisions are sometimes made with a cardiologist for genuinely highest-risk patients."
+  },
+  {
+    "id": 175,
+    "domain": "microbiology_and_immunology",
+    "front": "Why is cleaning a mandatory first step before disinfection or sterilisation of dental instruments?",
+    "back": "Organic debris can shield microorganisms from subsequent processes and inactivate chemical disinfectants."
+  },
+  {
+    "id": 176,
+    "domain": "microbiology_and_immunology",
+    "front": "What is the key difference between disinfection and sterilisation?",
+    "back": "Disinfection reduces viable microorganisms to a level not harmful to health but does not necessarily destroy spores; sterilisation destroys all microbial life, including spores."
+  },
+  {
+    "id": 177,
+    "domain": "microbiology_and_immunology",
+    "front": "Why does a vacuum autoclave sterilise more reliably than a non-vacuum autoclave?",
+    "back": "It actively removes air from the chamber before introducing pressurised steam, ensuring steam penetrates hollow instruments such as handpieces."
+  },
+  {
+    "id": 178,
+    "domain": "microbiology_and_immunology",
+    "front": "What UK document sets the required standards for decontamination in primary care dental practices?",
+    "back": "Health Technical Memorandum 01-05 (HTM 01-05)."
+  },
+  {
+    "id": 179,
+    "domain": "microbiology_and_immunology",
+    "front": "What is the correct first aid for a sharps injury?",
+    "back": "Encourage the area to bleed gently under running water without scrubbing, then wash thoroughly with soap and water, followed by prompt reporting and risk assessment."
+  },
+  {
+    "id": 180,
+    "domain": "microbiology_and_immunology",
+    "front": "What is the principle behind standard (universal) precautions?",
+    "back": "Applying the same baseline infection control measures to every patient regardless of known infection status, since infection status cannot always be known or disclosed."
+  },
+  {
+    "id": 181,
+    "domain": "microbiology_and_immunology",
+    "front": "Why is Hepatitis B vaccination mandatory for UK dental healthcare workers but no equivalent vaccine exists for Hepatitis C?",
+    "back": "Hepatitis B is highly infectious via blood/body fluid exposure and a vaccine exists; no vaccine currently exists against Hepatitis C, so standard precautions are the primary prevention."
+  },
+  {
+    "id": 182,
+    "domain": "microbiology_and_immunology",
+    "front": "Within what timeframe is HIV post-exposure prophylaxis ideally started after a significant exposure?",
+    "back": "Ideally within hours, and certainly within 72 hours, to maximise effectiveness."
+  },
+  {
+    "id": 183,
+    "domain": "microbiology_and_immunology",
+    "front": "Why are neutrophils particularly important in periodontal health?",
+    "back": "They form the front-line cellular defence against subgingival plaque bacteria in the gingival crevice; deficiency or dysfunction is linked to severe early-onset periodontal destruction."
+  },
+  {
+    "id": 184,
+    "domain": "microbiology_and_immunology",
+    "front": "What is the modern understanding of what actually causes alveolar bone loss in periodontitis?",
+    "back": "Substantially the host's own dysregulated inflammatory and immune response to the bacterial biofilm, not bacterial toxins alone."
+  },
+  {
+    "id": 185,
+    "domain": "microbiology_and_immunology",
+    "front": "Name three pro-inflammatory cytokines that drive periodontal tissue destruction.",
+    "back": "Interleukin-1, interleukin-6 and tumour necrosis factor-alpha."
+  },
+  {
+    "id": 186,
+    "domain": "microbiology_and_immunology",
+    "front": "What type of hypersensitivity reaction is latex allergy, and what mediates it?",
+    "back": "Type I, IgE-mediated hypersensitivity."
+  },
+  {
+    "id": 187,
+    "domain": "microbiology_and_immunology",
+    "front": "How does irritant contact dermatitis to latex differ from true latex allergy?",
+    "back": "It is a much more common, non-immunological reaction to friction, occlusion or glove powder, and does not require the same strict avoidance protocol as a true IgE-mediated allergy."
+  },
+  {
+    "id": 188,
+    "domain": "microbiology_and_immunology",
+    "front": "A patient loses consciousness briefly after a local anaesthetic injection but recovers rapidly once laid flat with legs raised. What is this, and how does it differ from a true allergic reaction?",
+    "back": "A vasovagal episode; a true allergic reaction would show urticaria, angioedema, wheeze or anaphylaxis that does not simply resolve with repositioning."
+  },
+  {
+    "id": 189,
+    "domain": "microbiology_and_immunology",
+    "front": "What is most often the true culprit in a genuine local anaesthetic allergic reaction, rather than the anaesthetic molecule itself?",
+    "back": "The preservative methylparaben or the sulphite-based antioxidant added to adrenaline-containing formulations (occasionally latex in the vial stopper)."
+  },
+  {
+    "id": 190,
+    "domain": "microbiology_and_immunology",
+    "front": "How is successful Hepatitis B vaccination confirmed in a dental healthcare worker?",
+    "back": "By checking the antibody level to hepatitis B surface antigen some weeks after completing the vaccine course."
+  },
+  {
+    "id": 191,
+    "domain": "pharmacology_and_therapeutics",
+    "front": "What is the mechanism of action of amide local anaesthetics?",
+    "back": "They block voltage-gated sodium channels in nerve membranes, preventing depolarisation and propagation of the action potential."
+  },
+  {
+    "id": 192,
+    "domain": "pharmacology_and_therapeutics",
+    "front": "Why is local anaesthesia less effective in acutely infected tissue?",
+    "back": "Infected tissue is more acidic, which reduces the proportion of anaesthetic in its lipid-soluble non-ionised form."
+  },
+  {
+    "id": 193,
+    "domain": "pharmacology_and_therapeutics",
+    "front": "What is the maximum recommended dose of lidocaine for a healthy adult?",
+    "back": "4.4 mg/kg, up to an absolute maximum of 300 mg."
+  },
+  {
+    "id": 194,
+    "domain": "pharmacology_and_therapeutics",
+    "front": "How much lidocaine is contained in a standard 2.2 mL cartridge of lidocaine 2%?",
+    "back": "44 mg."
+  },
+  {
+    "id": 195,
+    "domain": "pharmacology_and_therapeutics",
+    "front": "Why should articaine not be used for inferior alveolar nerve block?",
+    "back": "It is associated with an increased risk of prolonged paraesthesia, thought to relate to its higher concentration near the nerve trunk."
+  },
+  {
+    "id": 196,
+    "domain": "pharmacology_and_therapeutics",
+    "front": "What is the maximum recommended dose of articaine, and its absolute cap?",
+    "back": "7 mg/kg, up to an absolute maximum of 500 mg."
+  },
+  {
+    "id": 197,
+    "domain": "pharmacology_and_therapeutics",
+    "front": "Why is prilocaine with felypressin often preferred over lidocaine with adrenaline in cardiac patients?",
+    "back": "Felypressin causes vasoconstriction through direct action on vascular smooth muscle rather than adrenergic receptors, avoiding cardiovascular stimulation."
+  },
+  {
+    "id": 198,
+    "domain": "pharmacology_and_therapeutics",
+    "front": "Why should felypressin be used cautiously in pregnancy?",
+    "back": "At high doses it has an oxytocic effect on uterine smooth muscle."
+  },
+  {
+    "id": 199,
+    "domain": "pharmacology_and_therapeutics",
+    "front": "What specific toxicity risk does prilocaine's metabolite ortho-toluidine carry?",
+    "back": "It can oxidise haemoglobin to methaemoglobin, causing methaemoglobinaemia."
+  },
+  {
+    "id": 200,
+    "domain": "pharmacology_and_therapeutics",
+    "front": "What is local anaesthetic systemic toxicity (LAST), and what are its earliest signs?",
+    "back": "Toxicity from excessive plasma local anaesthetic concentration; earliest signs are central nervous system, including circumoral tingling, metallic taste, tinnitus and light-headedness."
+  },
+  {
+    "id": 201,
+    "domain": "pharmacology_and_therapeutics",
+    "front": "At higher plasma concentrations, what body system does local anaesthetic toxicity affect after the CNS?",
+    "back": "The cardiovascular system, causing bradycardia, hypotension, arrhythmias and potential cardiovascular collapse."
+  },
+  {
+    "id": 202,
+    "domain": "pharmacology_and_therapeutics",
+    "front": "What is the first-line analgesic recommended for most dental pain in UK guidance?",
+    "back": "Paracetamol."
+  },
+  {
+    "id": 203,
+    "domain": "pharmacology_and_therapeutics",
+    "front": "What is the maximum daily dose of paracetamol in 24 hours for an adult?",
+    "back": "4 g."
+  },
+  {
+    "id": 204,
+    "domain": "pharmacology_and_therapeutics",
+    "front": "Why does ibuprofen provide genuine anti-inflammatory effect where paracetamol does not?",
+    "back": "It inhibits cyclo-oxygenase (COX) enzymes, reducing prostaglandin synthesis, unlike paracetamol which has minimal peripheral anti-inflammatory effect."
+  },
+  {
+    "id": 205,
+    "domain": "pharmacology_and_therapeutics",
+    "front": "Name three contraindications or cautions for NSAID use in dental patients.",
+    "back": "History of peptic ulceration/GI bleeding, asthmatics with NSAID-exacerbated respiratory disease, and significant renal impairment (also third trimester pregnancy and anticoagulant use)."
+  },
+  {
+    "id": 206,
+    "domain": "pharmacology_and_therapeutics",
+    "front": "What is the \"triple whammy\" drug combination risk relevant to NSAID use?",
+    "back": "NSAIDs combined with ACE inhibitors and diuretics, which carries a recognised risk of acute kidney injury."
+  },
+  {
+    "id": 207,
+    "domain": "pharmacology_and_therapeutics",
+    "front": "Why is codeine specifically contraindicated in children under 12 and breastfeeding mothers?",
+    "back": "Codeine depends on CYP2D6 metabolism to morphine, and ultra-rapid metabolisers risk exaggerated opioid effect, with case reports of fatal infant respiratory depression via breast milk."
+  },
+  {
+    "id": 208,
+    "domain": "pharmacology_and_therapeutics",
+    "front": "Why is escalating opioid analgesia for worsening dental pain usually the wrong management choice?",
+    "back": "The underlying pathology, such as irreversible pulpitis or a dental abscess, is far better managed by definitive dental treatment than by stronger analgesia."
+  },
+  {
+    "id": 209,
+    "domain": "pharmacology_and_therapeutics",
+    "front": "What is the standard first-line antibiotic dose for a dental infection in UK guidance?",
+    "back": "Amoxicillin 500 mg three times daily for 5 days."
+  },
+  {
+    "id": 210,
+    "domain": "pharmacology_and_therapeutics",
+    "front": "Why should amoxicillin be avoided or used with caution if glandular fever is suspected?",
+    "back": "Amoxicillin characteristically provokes a widespread maculopapular rash in patients with unrecognised glandular fever (infectious mononucleosis)."
+  },
+  {
+    "id": 211,
+    "domain": "pharmacology_and_therapeutics",
+    "front": "What interaction should patients on metronidazole be warned about regarding alcohol?",
+    "back": "A disulfiram-like reaction of flushing, nausea, vomiting, tachycardia and headache; avoid alcohol during treatment and for 48 hours after."
+  },
+  {
+    "id": 212,
+    "domain": "pharmacology_and_therapeutics",
+    "front": "How does metronidazole interact with warfarin?",
+    "back": "It potentiates warfarin by inhibiting its hepatic metabolism, increasing INR and bleeding risk, so closer INR monitoring is needed."
+  },
+  {
+    "id": 213,
+    "domain": "pharmacology_and_therapeutics",
+    "front": "Why is clindamycin's role restricted in current UK dental prescribing?",
+    "back": "It carries a strong association with Clostridioides difficile-associated diarrhoea and pseudomembranous colitis."
+  },
+  {
+    "id": 214,
+    "domain": "pharmacology_and_therapeutics",
+    "front": "What should a patient be advised to do if they develop severe or persistent diarrhoea while taking clindamycin?",
+    "back": "Stop the drug and seek medical attention promptly, to be evaluated for C. difficile infection."
+  },
+  {
+    "id": 215,
+    "domain": "pharmacology_and_therapeutics",
+    "front": "What is the key drug interaction associated with miconazole oral gel, even though it is applied topically?",
+    "back": "It significantly potentiates warfarin by inhibiting hepatic CYP2C9, increasing INR and bleeding risk, due to sufficient systemic absorption."
+  },
+  {
+    "id": 216,
+    "domain": "pharmacology_and_therapeutics",
+    "front": "Which topical antifungal has negligible systemic absorption, making it useful where drug interactions are a concern?",
+    "back": "Nystatin suspension."
+  },
+  {
+    "id": 217,
+    "domain": "pharmacology_and_therapeutics",
+    "front": "What is the standard dose regimen of fluconazole for uncomplicated oropharyngeal candidiasis?",
+    "back": "50 mg once daily for 7 to 14 days."
+  },
+  {
+    "id": 218,
+    "domain": "pharmacology_and_therapeutics",
+    "front": "Besides warfarin, what other drug classes does fluconazole interact with via CYP2C9/CYP3A4 inhibition?",
+    "back": "Statins (increased myopathy/rhabdomyolysis risk) and sulfonylureas (increased hypoglycaemia risk)."
+  },
+  {
+    "id": 219,
+    "domain": "pharmacology_and_therapeutics",
+    "front": "What is the minimum oxygen concentration required during nitrous oxide inhalation sedation?",
+    "back": "30% oxygen."
+  },
+  {
+    "id": 220,
+    "domain": "pharmacology_and_therapeutics",
+    "front": "Why should 100% oxygen be given at the end of nitrous oxide sedation?",
+    "back": "To prevent diffusion hypoxia, which can occur as nitrous oxide rapidly leaves the bloodstream and dilutes alveolar oxygen concentration."
+  },
+  {
+    "id": 221,
+    "domain": "pharmacology_and_therapeutics",
+    "front": "What clinical endpoint is used to titrate IV midazolam sedation?",
+    "back": "Verrill's sign (slight ptosis)."
+  },
+  {
+    "id": 222,
+    "domain": "pharmacology_and_therapeutics",
+    "front": "What is flumazenil, and why should it not be relied upon for faster discharge after sedation?",
+    "back": "The specific benzodiazepine receptor antagonist that reverses midazolam; it has a shorter half-life than midazolam, so re-sedation is a genuine risk, requiring prolonged monitoring afterward."
+  },
+  {
+    "id": 223,
+    "domain": "pharmacology_and_therapeutics",
+    "front": "For routine dental extractions, what INR threshold does UK guidance support proceeding below without stopping warfarin?",
+    "back": "An INR below 4.0 on the day of treatment, using local haemostatic measures."
+  },
+  {
+    "id": 224,
+    "domain": "pharmacology_and_therapeutics",
+    "front": "What is a commonly recommended practical measure when timing an extraction for a patient on a DOAC?",
+    "back": "Timing the extraction to the point of lowest plasma drug concentration, such as immediately before the next dose is due."
+  },
+  {
+    "id": 225,
+    "domain": "pharmacology_and_therapeutics",
+    "front": "Why does UK guidance not recommend routinely stopping bisphosphonate therapy before dental extraction?",
+    "back": "The drug has a very long skeletal half-life, so briefly stopping it makes no meaningful difference to MRONJ risk while removing its therapeutic benefit."
+  },
+  {
+    "id": 226,
+    "domain": "pharmacology_and_therapeutics",
+    "front": "What has UK guidance on \"steroid cover\" for dental procedures moved toward?",
+    "back": "A more individualised, risk-based approach, rather than routinely giving supplementary corticosteroid before every procedure in every steroid-dependent patient."
+  },
+  {
+    "id": 227,
+    "domain": "pharmacology_and_therapeutics",
+    "front": "What is the immediate management of anaphylaxis in the dental chair?",
+    "back": "Call for emergency help, lie the patient flat with legs raised (or sitting if breathing is compromised), give high-flow oxygen, and give intramuscular adrenaline 1:1000 without delay."
+  },
+  {
+    "id": 228,
+    "domain": "pharmacology_and_therapeutics",
+    "front": "What is the adult dose, route and site for adrenaline in anaphylaxis?",
+    "back": "500 micrograms (0.5 mL of 1:1000, 1 mg/mL) by intramuscular injection into the anterolateral thigh, repeated after 5 minutes if needed."
+  },
+  {
+    "id": 229,
+    "domain": "pharmacology_and_therapeutics",
+    "front": "In a conscious, cooperative hypoglycaemic patient, what is the first-line treatment?",
+    "back": "Oral glucose, as a sugary drink, glucose tablets, or glucose gel in the buccal sulcus."
+  },
+  {
+    "id": 230,
+    "domain": "pharmacology_and_therapeutics",
+    "front": "What is given to an unconscious hypoglycaemic patient, and by what route?",
+    "back": "Glucagon 1 mg by intramuscular injection."
+  },
+  {
+    "id": 231,
+    "domain": "pharmacology_and_therapeutics",
+    "front": "Why might glucagon be ineffective in an alcoholic or prolonged-starvation patient with hypoglycaemia?",
+    "back": "Glucagon mobilises hepatic glycogen stores, which will be ineffective if glycogen reserves are depleted."
+  },
+  {
+    "id": 232,
+    "domain": "pharmacology_and_therapeutics",
+    "front": "What is the drug, dose and route for managing an adrenal crisis in the dental chair?",
+    "back": "Hydrocortisone 100 mg by intramuscular injection, alongside oxygen, lying flat with legs raised and urgent hospital transfer."
+  },
+  {
+    "id": 233,
+    "domain": "pharmacology_and_therapeutics",
+    "front": "What is the first-line emergency drug for a prolonged dental-chair seizure (over 5 minutes or status epilepticus)?",
+    "back": "Buccal midazolam, given into the buccal mucosa between the gum and the cheek."
+  },
+  {
+    "id": 234,
+    "domain": "pharmacology_and_therapeutics",
+    "front": "What is the management of simple vasovagal syncope in the dental chair?",
+    "back": "Positional management: place the patient supine with legs raised to restore venous return and cerebral perfusion; no drug treatment is required."
+  },
+  {
+    "id": 235,
+    "domain": "pharmacology_and_therapeutics",
+    "front": "Why should adrenaline never be withheld while awaiting other interventions in anaphylaxis?",
+    "back": "Adrenaline is the single most important drug in managing anaphylaxis, and delay increases the risk of airway compromise and cardiovascular collapse."
+  },
+  {
+    "id": 236,
+    "domain": "pharmacology_and_therapeutics",
+    "front": "What emergency drug is specifically stocked in the UK dental practice kit for hypoglycaemia in a patient who cannot swallow safely?",
+    "back": "Glucagon."
+  },
+  {
+    "id": 237,
+    "domain": "pharmacology_and_therapeutics",
+    "front": "Fill in the blank: mepivacaine 3% plain has a maximum dose of ___ mg/kg up to 300 mg.",
+    "back": "4.4 mg/kg."
+  },
+  {
+    "id": 238,
+    "domain": "pharmacology_and_therapeutics",
+    "front": "What advantage does articaine have in patients with hepatic impairment?",
+    "back": "It is rapidly hydrolysed by plasma esterases, so less of its metabolism depends on hepatic microsomal enzymes."
+  },
+  {
+    "id": 239,
+    "domain": "pharmacology_and_therapeutics",
+    "front": "What is the initial management step for suspected LAST in the dental setting?",
+    "back": "Stop the injection immediately, call for emergency help, maintain the airway and give high-flow oxygen."
+  },
+  {
+    "id": 240,
+    "domain": "pharmacology_and_therapeutics",
+    "front": "Why is combining paracetamol and ibuprofen recommended for dental pain?",
+    "back": "They act through different mechanisms, giving greater analgesic effect than either drug alone."
+  },
+  {
+    "id": 241,
+    "domain": "pharmacology_and_therapeutics",
+    "front": "What is the standard adult dose of ibuprofen for dental pain?",
+    "back": "400 mg three times daily."
+  },
+  {
+    "id": 242,
+    "domain": "pharmacology_and_therapeutics",
+    "front": "Why must amoxicillin never be prescribed for a documented penicillin-allergic patient?",
+    "back": "It is a penicillin and would provoke a hypersensitivity reaction; alternatives such as clarithromycin or metronidazole are used instead."
+  },
+  {
+    "id": 243,
+    "domain": "pharmacology_and_therapeutics",
+    "front": "What predisposing factor should always be corrected alongside antifungal treatment for denture-related stomatitis?",
+    "back": "Poor denture hygiene (and, where relevant, nocturnal wearing), since antifungal treatment alone without addressing the cause leads to recurrence."
+  },
+  {
+    "id": 244,
+    "domain": "pharmacology_and_therapeutics",
+    "front": "How does nitrous oxide sedation preserve airway safety compared with general anaesthesia?",
+    "back": "It preserves protective airway reflexes, and the patient remains conscious and able to respond to verbal commands throughout."
+  },
+  {
+    "id": 245,
+    "domain": "pharmacology_and_therapeutics",
+    "front": "What is the mechanism of midazolam's sedative and amnestic effect?",
+    "back": "Potentiation of GABA-A receptor activity, increasing chloride channel opening frequency and hyperpolarising the neuronal membrane."
+  },
+  {
+    "id": 246,
+    "domain": "pharmacology_and_therapeutics",
+    "front": "A patient on warfarin needs a course of metronidazole. What monitoring change is needed?",
+    "back": "Closer INR monitoring, since metronidazole potentiates warfarin's anticoagulant effect."
+  },
+  {
+    "id": 247,
+    "domain": "pharmacology_and_therapeutics",
+    "front": "Why is dose reduction of paracetamol advised in patients under 50 kg or with hepatic impairment?",
+    "back": "Paracetamol overdose and cumulative dosing are leading causes of acute liver failure in the UK, so lower body weight or impaired liver function increases hepatotoxicity risk."
+  },
+  {
+    "id": 248,
+    "domain": "pharmacology_and_therapeutics",
+    "front": "What is the correct dental management of a localised abscess in an otherwise well patient, according to UK stewardship principles?",
+    "back": "Drainage of pus and/or extraction; antibiotics are reserved only as an adjunct if there are systemic signs of spreading infection."
+  },
+  {
+    "id": 249,
+    "domain": "pharmacology_and_therapeutics",
+    "front": "What starting concentration of nitrous oxide is typically used before titrating to clinical effect?",
+    "back": "Around 10%, titrated upward to a typical effective range of 20 to 30% for most patients."
+  },
+  {
+    "id": 250,
+    "domain": "pharmacology_and_therapeutics",
+    "front": "Why should any decision to interrupt a patient's anticoagulant therapy for dental treatment not be made unilaterally by the dentist?",
+    "back": "The systemic thromboembolic risk of stopping anticoagulation must be weighed by the prescribing physician, since it generally outweighs local dental bleeding risk."
+  },
+  {
+    "id": 251,
+    "domain": "dental_materials_science",
+    "front": "What suppresses the gamma-2 phase in high-copper dental amalgam?",
+    "back": "The higher copper content (around 13 to 30 per cent) reacts preferentially with tin, consuming it before the weaker, corrosion-prone gamma-2 tin-mercury phase can form."
+  },
+  {
+    "id": 252,
+    "domain": "dental_materials_science",
+    "front": "Since when has bulk mercury for amalgam preparation been banned in the UK?",
+    "back": "Since 2019, under the Mercury (Amalgam) Regulations implementing the Minamata Convention, so only pre-capsulated, pre-dosed amalgam may now be used."
+  },
+  {
+    "id": 253,
+    "domain": "dental_materials_science",
+    "front": "Fill in the blank: amalgam separators are ___ in any practice handling amalgam or its waste.",
+    "back": "Mandatory, to prevent mercury entering the wastewater system before disposal as hazardous waste through a registered carrier."
+  },
+  {
+    "id": 254,
+    "domain": "dental_materials_science",
+    "front": "A patient with poor moisture control needs a large posterior restoration. Why might amalgam be preferred over composite?",
+    "back": "Amalgam is more tolerant of a degree of contamination during placement than composite, which relies on a dry field for a durable bond."
+  },
+  {
+    "id": 255,
+    "domain": "dental_materials_science",
+    "front": "What photoinitiator activates light-cured composite resin?",
+    "back": "Camphorquinone, activated by blue light in the 450 to 480 nanometre wavelength range, initiates free-radical addition polymerisation of the resin matrix."
+  },
+  {
+    "id": 256,
+    "domain": "dental_materials_science",
+    "front": "By roughly how much does composite resin shrink by volume during polymerisation?",
+    "back": "Around 2 to 3 per cent, generating contraction stress at the tooth-restoration interface that can cause microleakage and postoperative sensitivity."
+  },
+  {
+    "id": 257,
+    "domain": "dental_materials_science",
+    "front": "Why is composite placed in increments no thicker than about 2 millimetres?",
+    "back": "Incremental placement reduces the effective configuration factor (C-factor) at each stage, minimising polymerisation shrinkage stress and marginal gap formation."
+  },
+  {
+    "id": 258,
+    "domain": "dental_materials_science",
+    "front": "What concentration of phosphoric acid is used in total-etch bonding of enamel and dentine?",
+    "back": "Typically 35 to 37 per cent phosphoric acid, which removes the smear layer and demineralises the surface to create a micro-retentive pattern."
+  },
+  {
+    "id": 259,
+    "domain": "dental_materials_science",
+    "front": "How do self-etch bonding systems differ from total-etch systems?",
+    "back": "Self-etch systems combine etching and priming into one step using acidic monomers, reducing technique sensitivity, though bond strength to unprepared enamel can be marginally lower."
+  },
+  {
+    "id": 260,
+    "domain": "dental_materials_science",
+    "front": "How does conventional glass ionomer cement chemically bond to tooth structure?",
+    "back": "It bonds through chelation of calcium in the tooth mineral by the polyacrylate chains, requiring no separate bonding agent."
+  },
+  {
+    "id": 261,
+    "domain": "dental_materials_science",
+    "front": "Scenario: a high-caries-risk patient needs a tooth-coloured posterior restoration. What material class is most appropriate?",
+    "back": "Glass ionomer or resin-modified glass ionomer cement, because of their fluoride release, chemical adhesion to tooth structure and reasonable aesthetics."
+  },
+  {
+    "id": 262,
+    "domain": "dental_materials_science",
+    "front": "What gives resin-modified glass ionomer cement its dual-cure setting mechanism?",
+    "back": "A light-curable resin component such as HEMA gives an immediate light-cured snap set, followed by the slower conventional acid-base maturation reaction."
+  },
+  {
+    "id": 263,
+    "domain": "dental_materials_science",
+    "front": "Why must conventional glass ionomer cement be protected from moisture during the first 24 hours?",
+    "back": "The acid-base set matures over 24 hours, and the material is prone to desiccation cracking if dried excessively during this early setting phase."
+  },
+  {
+    "id": 264,
+    "domain": "dental_materials_science",
+    "front": "Why should zinc oxide eugenol not be used as a base beneath a restoration that will be bonded with composite?",
+    "back": "Eugenol can interfere with the polymerisation of composite resin and can plasticise and weaken resin-based materials."
+  },
+  {
+    "id": 265,
+    "domain": "dental_materials_science",
+    "front": "What clinical property makes zinc oxide eugenol useful as a temporary restorative material?",
+    "back": "It has a sedative, palliative effect on the pulp due to its eugenol component, making it suitable for temporary restorations and cementation."
+  },
+  {
+    "id": 266,
+    "domain": "dental_materials_science",
+    "front": "Why is zinc phosphate cement irritant to the pulp if placed directly on dentine?",
+    "back": "The reaction of zinc oxide powder with phosphoric acid liquid is highly exothermic and produces an initially low pH mix, which requires a protective liner beneath it."
+  },
+  {
+    "id": 267,
+    "domain": "dental_materials_science",
+    "front": "Which luting cement is the cement of choice for bonding all-ceramic restorations such as lithium disilicate?",
+    "back": "Resin cement, since it provides the highest bond strength of any luting cement and its resin bond also contributes to fracture resistance."
+  },
+  {
+    "id": 268,
+    "domain": "dental_materials_science",
+    "front": "Fill in the blank: alginate impressions should ideally be cast within ___ minutes of taking the impression.",
+    "back": "10 to 15 minutes, because alginate is prone to syneresis (shrinkage from water loss) if exposed to air and imbibition (swelling) if stored in water."
+  },
+  {
+    "id": 269,
+    "domain": "dental_materials_science",
+    "front": "What can inhibit the setting of addition silicone (PVS) impression material?",
+    "back": "Contamination by latex gloves or sulphur-containing materials can inhibit the platinum catalyst and cause incomplete setting."
+  },
+  {
+    "id": 270,
+    "domain": "dental_materials_science",
+    "front": "Scenario: a definitive crown and bridge impression is needed in a slightly moist field that cannot be perfectly isolated. Which elastomer is preferred?",
+    "back": "Polyether, because its inherent hydrophilicity gives it an advantage in a moist field, unlike the naturally hydrophobic surface of PVS."
+  },
+  {
+    "id": 271,
+    "domain": "dental_materials_science",
+    "front": "Why is PVS generally preferred when multiple pours or delayed pouring of a cast are anticipated?",
+    "back": "PVS sets by an addition reaction that produces no by-product, giving excellent long-term dimensional stability compared with other elastomers."
+  },
+  {
+    "id": 272,
+    "domain": "dental_materials_science",
+    "front": "Which gypsum product type is used for die work in crown and bridge fabrication, and why?",
+    "back": "Type IV and V die stones, because they need less water for a workable mix, giving denser, stronger, more abrasion-resistant casts."
+  },
+  {
+    "id": 273,
+    "domain": "dental_materials_science",
+    "front": "Why is feldspathic porcelain typically used as a veneering material rather than for full-contour restorations?",
+    "back": "It offers outstanding translucency and aesthetics but is relatively brittle and low in flexural strength, so it needs a stronger substructure beneath it."
+  },
+  {
+    "id": 274,
+    "domain": "dental_materials_science",
+    "front": "Scenario: a posterior crown is needed with heavy occlusal forces and minimal remaining tooth structure. Which ceramic is best suited?",
+    "back": "Zirconia, because of its very high flexural strength (often exceeding 1000 megapascals) and excellent fracture toughness."
+  },
+  {
+    "id": 275,
+    "domain": "dental_materials_science",
+    "front": "Why can zirconia not be bonded using hydrofluoric acid etching?",
+    "back": "Unlike glass-ceramics, zirconia is polycrystalline and cannot be etched with hydrofluoric acid; it instead requires airborne particle abrasion and a specific primer for a durable resin bond."
+  },
+  {
+    "id": 276,
+    "domain": "restorative_dentistry_and_endodontics",
+    "front": "According to Black's classification, where do Class II cavities occur?",
+    "back": "On the proximal surfaces of premolars and molars, typically extending onto the occlusal surface (mesio-occlusal, disto-occlusal, or mesio-occluso-distal)."
+  },
+  {
+    "id": 277,
+    "domain": "restorative_dentistry_and_endodontics",
+    "front": "What distinguishes a Black's Class IV cavity from a Class III cavity?",
+    "back": "Class IV cavities are on proximal surfaces of incisors and canines involving the incisal edge, whereas Class III cavities are proximal lesions that do not involve the incisal edge."
+  },
+  {
+    "id": 278,
+    "domain": "restorative_dentistry_and_endodontics",
+    "front": "Fill in the blank: Black's Class ___ cavities occur on the cervical third of the buccal or lingual surface, often from abrasion or erosion.",
+    "back": "V"
+  },
+  {
+    "id": 279,
+    "domain": "restorative_dentistry_and_endodontics",
+    "front": "What ICDAS scores represent frank cavitation with visible dentine involvement?",
+    "back": "Scores 5 and 6, which represent frank cavitation, in contrast to scores 1 and 2 (early enamel changes) and 3 to 4 (localised enamel breakdown with dentinal shadowing)."
+  },
+  {
+    "id": 280,
+    "domain": "restorative_dentistry_and_endodontics",
+    "front": "Scenario: a bitewing shows a lesion confined to the outer half of enamel. What is the correct management?",
+    "back": "Monitor with preventive measures and repeat radiographs; operative intervention at this stage causes unnecessary loss of sound tooth structure without improving outcomes."
+  },
+  {
+    "id": 281,
+    "domain": "restorative_dentistry_and_endodontics",
+    "front": "What is selective caries removal?",
+    "back": "For deep lesions close to the pulp, a layer of affected but not infected dentine is deliberately left over the pulp to avoid exposure, and the cavity is sealed with a well-adapted restoration."
+  },
+  {
+    "id": 282,
+    "domain": "restorative_dentistry_and_endodontics",
+    "front": "Why is rubber dam isolation considered best practice for composite placement?",
+    "back": "Even small amounts of saliva or blood contamination compromise the bond between composite and tooth structure, and rubber dam also protects the airway."
+  },
+  {
+    "id": 283,
+    "domain": "restorative_dentistry_and_endodontics",
+    "front": "What does incremental layering of composite reduce, thereby minimising shrinkage stress?",
+    "back": "The effective configuration factor (C-factor), the ratio of bonded to unbonded surfaces, at each stage of curing."
+  },
+  {
+    "id": 284,
+    "domain": "restorative_dentistry_and_endodontics",
+    "front": "What is the difference between an inlay and an onlay?",
+    "back": "An inlay restores the occlusal surface and interproximal box without covering a cusp, whereas an onlay extends to cover one or more cusps."
+  },
+  {
+    "id": 285,
+    "domain": "restorative_dentistry_and_endodontics",
+    "front": "What amount of occlusal or incisal reduction is generally recommended when preparing a tooth for a crown?",
+    "back": "Generally 1.5 to 2 millimetres, providing adequate restoration thickness without risking pulpal exposure from over-reduction."
+  },
+  {
+    "id": 286,
+    "domain": "restorative_dentistry_and_endodontics",
+    "front": "What axial wall taper is recommended for crown preparations, and why?",
+    "back": "Approximately 6 to 10 degrees, since over-tapering loses retention while under-tapering or parallel walls risk undercuts."
+  },
+  {
+    "id": 287,
+    "domain": "restorative_dentistry_and_endodontics",
+    "front": "Define the ferrule effect in crown and post-core restorations.",
+    "back": "A band of sound coronal tooth structure, ideally at least 1.5 to 2 millimetres in height and thickness, encircled by the crown margin below the core, which resists wedging and lateral forces from a post."
+  },
+  {
+    "id": 288,
+    "domain": "restorative_dentistry_and_endodontics",
+    "front": "Scenario: a root-filled tooth has minimal remaining coronal structure. What factor most dominates its long-term failure risk?",
+    "back": "An inadequate ferrule, not post design or material choice; extraction or crown lengthening may be preferable to restoring the tooth as it stands."
+  },
+  {
+    "id": 289,
+    "domain": "restorative_dentistry_and_endodontics",
+    "front": "What is indirect pulp capping used for?",
+    "back": "When caries approaches but does not expose the pulp; a layer of affected dentine is left in situ and a biocompatible liner such as calcium hydroxide or MTA is placed to encourage tertiary dentine."
+  },
+  {
+    "id": 290,
+    "domain": "restorative_dentistry_and_endodontics",
+    "front": "Under what circumstances is direct pulp capping appropriate?",
+    "back": "For a small, mechanical or carious exposure in a tooth with no history of spontaneous pain and readily controlled haemorrhage, suggesting a healthy pulp."
+  },
+  {
+    "id": 291,
+    "domain": "restorative_dentistry_and_endodontics",
+    "front": "What is the purpose of a pulpotomy in an immature permanent tooth with an open apex?",
+    "back": "It removes the coronal pulp while keeping the radicular pulp vital, allowing continued apexogenesis, root development and apical closure."
+  },
+  {
+    "id": 292,
+    "domain": "restorative_dentistry_and_endodontics",
+    "front": "How does reversible pulpitis present clinically?",
+    "back": "As sharp, short-lived pain provoked by a stimulus such as cold or sweet food, resolving promptly once the stimulus is removed."
+  },
+  {
+    "id": 293,
+    "domain": "restorative_dentistry_and_endodontics",
+    "front": "Why is irreversible pulpitis often poorly localised in its early stages?",
+    "back": "Pulpal nerve fibres provide poor localisation; the pain becomes better localised once inflammation spreads to the periapical periodontal ligament."
+  },
+  {
+    "id": 294,
+    "domain": "restorative_dentistry_and_endodontics",
+    "front": "What defines the apical constriction, and why is it clinically important?",
+    "back": "It is the narrowest part of the canal close to but not at the anatomical apex, and it is the target endpoint for instrumentation and obturation during root canal treatment."
+  },
+  {
+    "id": 295,
+    "domain": "restorative_dentistry_and_endodontics",
+    "front": "How do electronic apex locators determine working length?",
+    "back": "They measure the electrical impedance difference between oral mucosa and periodontal tissue, used alongside a periapical radiograph rather than radiography alone."
+  },
+  {
+    "id": 296,
+    "domain": "restorative_dentistry_and_endodontics",
+    "front": "What can happen if sodium hypochlorite is extruded beyond the apex during irrigation?",
+    "back": "A hypochlorite accident can occur, causing sudden severe pain, swelling and ecchymosis."
+  },
+  {
+    "id": 297,
+    "domain": "restorative_dentistry_and_endodontics",
+    "front": "What is ledging as an endodontic procedural complication?",
+    "back": "A false canal pathway created, usually from failing to maintain patency in a curved canal, so the original path can no longer be negotiated to full working length."
+  },
+  {
+    "id": 298,
+    "domain": "restorative_dentistry_and_endodontics",
+    "front": "What is now understood as one of the most significant predictors of root canal treatment failure?",
+    "back": "An inadequate coronal seal allowing coronal microleakage."
+  },
+  {
+    "id": 299,
+    "domain": "restorative_dentistry_and_endodontics",
+    "front": "What does periradicular (apical) surgery involve?",
+    "back": "Surgical access to the root apex, removal of diseased periapical tissue, resection of the root apex, and placement of a retrograde root-end filling, commonly using MTA."
+  },
+  {
+    "id": 300,
+    "domain": "restorative_dentistry_and_endodontics",
+    "front": "What is the primary function of a post placed after root canal treatment?",
+    "back": "Retention of the core, not reinforcement of the root; posts do not strengthen a root canal treated tooth."
+  },
+  {
+    "id": 301,
+    "domain": "restorative_dentistry_and_endodontics",
+    "front": "How much apical gutta-percha should generally be preserved when preparing a post space?",
+    "back": "At least 4 to 5 millimetres, to maintain the apical seal."
+  },
+  {
+    "id": 302,
+    "domain": "restorative_dentistry_and_endodontics",
+    "front": "Why are fibre posts now generally preferred over rigid cast metal posts?",
+    "back": "Their modulus of elasticity is closer to dentine, so under excessive load they are more likely to flex or debond rather than cause a catastrophic, unrestorable vertical root fracture."
+  },
+  {
+    "id": 303,
+    "domain": "restorative_dentistry_and_endodontics",
+    "front": "Scenario: a permanent tooth is avulsed at the scene of an accident. What is the first and best management option?",
+    "back": "Immediate replantation at the scene if feasible, handling the tooth only by the crown, never the root."
+  },
+  {
+    "id": 304,
+    "domain": "restorative_dentistry_and_endodontics",
+    "front": "List the storage media, in order of preference, for an avulsed permanent tooth if immediate replantation is not possible.",
+    "back": "Hank's balanced salt solution, then cold milk, then the patient's own saliva, then saline; tap water should always be avoided."
+  },
+  {
+    "id": 305,
+    "domain": "restorative_dentistry_and_endodontics",
+    "front": "Why should tap water never be used to store an avulsed tooth?",
+    "back": "Tap water is hypotonic and causes rapid lysis of periodontal ligament cells."
+  },
+  {
+    "id": 306,
+    "domain": "restorative_dentistry_and_endodontics",
+    "front": "What extra-oral dry time predicts that most periodontal ligament cells will not survive after avulsion?",
+    "back": "Approximately 60 minutes or more, after which the expected outcome is replacement resorption."
+  },
+  {
+    "id": 307,
+    "domain": "restorative_dentistry_and_endodontics",
+    "front": "What type of splint is used after replanting an avulsed permanent tooth, and for how long?",
+    "back": "A flexible splint, generally for around two weeks for an uncomplicated avulsion with a closed apex, since it allows physiological movement and favours periodontal healing."
+  },
+  {
+    "id": 308,
+    "domain": "restorative_dentistry_and_endodontics",
+    "front": "Why is root canal treatment generally required for a mature (closed apex) avulsed tooth but sometimes deferred in an immature tooth?",
+    "back": "Pulp revascularisation is very unlikely in a closed apex, whereas the wider apex of an immature tooth gives a real chance of the pulp regaining a blood supply."
+  },
+  {
+    "id": 309,
+    "domain": "restorative_dentistry_and_endodontics",
+    "front": "Should an avulsed primary (deciduous) tooth ever be replanted?",
+    "back": "No, replantation of a primary tooth risks damaging the developing permanent tooth germ beneath it; management is reassurance and monitoring."
+  },
+  {
+    "id": 310,
+    "domain": "restorative_dentistry_and_endodontics",
+    "front": "Distinguish concussion from subluxation as dental trauma presentations.",
+    "back": "Concussion is tender to touch or tapping but not displaced or mobile; subluxation is mobile but not displaced, sometimes managed with a short splint for comfort."
+  },
+  {
+    "id": 311,
+    "domain": "restorative_dentistry_and_endodontics",
+    "front": "What is the standard technique for taking a Class II composite restoration to re-establish a tight proximal contact?",
+    "back": "A matrix system, such as a sectional matrix with a separating ring or a circumferential matrix, is used to prevent food packing and secondary caries."
+  },
+  {
+    "id": 312,
+    "domain": "restorative_dentistry_and_endodontics",
+    "front": "Why has composite become the material of choice for most direct restorations in UK practice?",
+    "back": "Aesthetic demand and, since 2018, the Minamata Convention's restrictions on amalgam use, particularly in children under 15 and pregnant or breastfeeding women."
+  },
+  {
+    "id": 313,
+    "domain": "restorative_dentistry_and_endodontics",
+    "front": "What is cracked cusp syndrome an indication for?",
+    "back": "An onlay or crown, since cuspal coverage is protective for a cusp weakened by a crack."
+  },
+  {
+    "id": 314,
+    "domain": "restorative_dentistry_and_endodontics",
+    "front": "Fill in the blank: composite is layered in increments of no more than about ___ millimetres in cavities greater than 2 millimetres deep.",
+    "back": "2 millimetres"
+  },
+  {
+    "id": 315,
+    "domain": "restorative_dentistry_and_endodontics",
+    "front": "Why is a full coverage crown indicated after root canal treatment on a posterior tooth?",
+    "back": "When the marginal ridge is compromised and fracture risk is high, since partial coverage cannot adequately protect the remaining tissue."
+  },
+  {
+    "id": 316,
+    "domain": "restorative_dentistry_and_endodontics",
+    "front": "What organisms are chiefly responsible for producing the acid that causes dental caries?",
+    "back": "Streptococcus mutans and Lactobacillus species, which metabolise fermentable carbohydrates within a biofilm."
+  },
+  {
+    "id": 317,
+    "domain": "restorative_dentistry_and_endodontics",
+    "front": "What does pulp necrosis show on vitality testing, and why?",
+    "back": "No response to cold or electric pulp testing, because the pulp is dead; the tooth may still be asymptomatic or present with tenderness to percussion or a sinus tract."
+  },
+  {
+    "id": 318,
+    "domain": "restorative_dentistry_and_endodontics",
+    "front": "What management is generally preferred for an apically lodged separated instrument fragment beyond a canal curve?",
+    "back": "It may sometimes be left in situ if the canal is otherwise well cleaned and shaped, with the patient informed and monitored."
+  },
+  {
+    "id": 319,
+    "domain": "restorative_dentistry_and_endodontics",
+    "front": "What is retreatment indicated for in a previously root-filled tooth?",
+    "back": "A persistent or new periapical radiolucency, ongoing symptoms, or a technically inadequate original root filling combined with clinical or radiographic evidence of disease."
+  },
+  {
+    "id": 320,
+    "domain": "restorative_dentistry_and_endodontics",
+    "front": "What factor favours a good prognosis for root canal treatment?",
+    "back": "Absence of a preoperative periapical lesion (or a small one), a well-sealed coronal restoration placed promptly, and thorough canal cleaning and shaping."
+  },
+  {
+    "id": 321,
+    "domain": "restorative_dentistry_and_endodontics",
+    "front": "Why is irrigation with sodium hypochlorite essential during canal preparation?",
+    "back": "It dissolves organic tissue and is a potent antimicrobial, cleaning irregular canal anatomy that instrumentation alone cannot adequately reach."
+  },
+  {
+    "id": 322,
+    "domain": "restorative_dentistry_and_endodontics",
+    "front": "What is perforation as an endodontic complication?",
+    "back": "An iatrogenic communication between the canal system and the periodontal ligament or external root surface, most often at furcation areas or during post space preparation, commonly sealed with MTA."
+  },
+  {
+    "id": 323,
+    "domain": "restorative_dentistry_and_endodontics",
+    "front": "Which instruments are particularly prone to instrument separation in curved canals?",
+    "back": "Nickel-titanium rotary instruments."
+  },
+  {
+    "id": 324,
+    "domain": "restorative_dentistry_and_endodontics",
+    "front": "What material is most commonly used with gutta-percha to obturate a canal?",
+    "back": "A sealer, filling the cleaned and shaped canal system three-dimensionally to seal against bacterial recontamination."
+  },
+  {
+    "id": 325,
+    "domain": "restorative_dentistry_and_endodontics",
+    "front": "Scenario: a patient has a large periapical lesion and coronal microleakage after root canal treatment. What does this predict?",
+    "back": "A poorer prognosis, since both factors, alongside extraradicular infection or a non-resolving cyst, are associated with treatment failure."
+  },
+  {
+    "id": 326,
+    "domain": "restorative_dentistry_and_endodontics",
+    "front": "When is periradicular (apical) surgery considered for a tooth with persistent periapical disease?",
+    "back": "When orthograde (non-surgical) retreatment cannot resolve the periapical disease, or the canal system cannot be adequately accessed or cleaned from the crown."
+  },
+  {
+    "id": 327,
+    "domain": "restorative_dentistry_and_endodontics",
+    "front": "What should be avoided when handling an avulsed tooth before replantation?",
+    "back": "Scrubbing the root surface; the tooth should be rinsed briefly with saline or saliva if contaminated, without touching or scrubbing the root."
+  },
+  {
+    "id": 328,
+    "domain": "restorative_dentistry_and_endodontics",
+    "front": "Why is lateral or extrusive luxation often accompanied by an alveolar fracture?",
+    "back": "The tooth is displaced, usually palatally or along the long axis, and the force required to displace it commonly fractures the surrounding alveolar bone as well."
+  },
+  {
+    "id": 329,
+    "domain": "restorative_dentistry_and_endodontics",
+    "front": "What is intrusive luxation, and why does it carry a poorer pulp prognosis?",
+    "back": "The tooth is driven further into the socket; the degree of displacement and disruption to the neurovascular supply gives it a worse pulp prognosis than other luxation injuries."
+  },
+  {
+    "id": 330,
+    "domain": "restorative_dentistry_and_endodontics",
+    "front": "What is the recommended time frame for a bulk-fill composite compared with conventional layering?",
+    "back": "Bulk-fill composites allow greater depths of cure per increment (up to about 4mm) than conventional composite, which is placed in increments of no more than 2mm; conventional incremental layering remains the safe default technique."
+  },
+  {
+    "id": 331,
+    "domain": "restorative_dentistry_and_endodontics",
+    "front": "Why is direct pulp capping inappropriate for a carious exposure with irreversible pulpitis symptoms?",
+    "back": "Case selection is critical for vital pulp therapy; direct pulp capping in the presence of irreversible pulpitis symptoms predictably fails."
+  },
+  {
+    "id": 332,
+    "domain": "restorative_dentistry_and_endodontics",
+    "front": "What does calcium hydroxide as an interim dressing help control after root canal treatment of an avulsed mature tooth?",
+    "back": "Inflammatory and infection-related root resorption."
+  },
+  {
+    "id": 333,
+    "domain": "restorative_dentistry_and_endodontics",
+    "front": "What indication supports choosing an indirect restoration over a direct composite for a large multi-surface cavity?",
+    "back": "The need for improved proximal contact and contour in a large cavity, where a direct restoration would be less reliable at resisting occlusal load."
+  },
+  {
+    "id": 334,
+    "domain": "restorative_dentistry_and_endodontics",
+    "front": "What time frame is generally advised to start root canal treatment on a mature avulsed and replanted tooth?",
+    "back": "Generally within one to two weeks of replantation, since pulp revascularisation in a closed apex is very unlikely."
+  },
+  {
+    "id": 335,
+    "domain": "restorative_dentistry_and_endodontics",
+    "front": "How does the bonding sequence for a direct composite restoration typically proceed?",
+    "back": "Cavity preparation, selective or total etching, bonding agent application, then incremental placement and curing, followed by finishing and polishing."
+  },
+  {
+    "id": 336,
+    "domain": "periodontology_prosthodontics_and_oral_surgery",
+    "front": "What is the key clinical distinction between gingivitis and periodontitis?",
+    "back": "Gingivitis is reversible inflammation confined to soft tissue with no attachment or bone loss, whereas periodontitis involves irreversible loss of connective tissue attachment and alveolar bone."
+  },
+  {
+    "id": 337,
+    "domain": "periodontology_prosthodontics_and_oral_surgery",
+    "front": "Which classification system replaced the old 1999 chronic and aggressive periodontitis categories?",
+    "back": "The 2017 World Workshop classification, which stages and grades periodontitis instead."
+  },
+  {
+    "id": 338,
+    "domain": "periodontology_prosthodontics_and_oral_surgery",
+    "front": "What clinical attachment loss defines Stage I periodontitis?",
+    "back": "Interdental clinical attachment loss of 1 to 2 millimetres, with radiographic bone loss confined to the coronal third of the root."
+  },
+  {
+    "id": 339,
+    "domain": "periodontology_prosthodontics_and_oral_surgery",
+    "front": "Scenario: a patient has clinical attachment loss of 6 millimetres and has lost five teeth to periodontitis, with masticatory dysfunction. What stage is this?",
+    "back": "Stage IV, severe periodontitis with potential for loss of the dentition, showing five or more teeth lost to periodontitis and need for complex rehabilitation."
+  },
+  {
+    "id": 340,
+    "domain": "periodontology_prosthodontics_and_oral_surgery",
+    "front": "What is the primary indicator used to grade the rate of periodontitis progression?",
+    "back": "The ratio of radiographic bone loss to the patient's age, then modified by risk factors such as smoking and diabetes."
+  },
+  {
+    "id": 341,
+    "domain": "periodontology_prosthodontics_and_oral_surgery",
+    "front": "Why is a heavy smoker (ten or more cigarettes a day) automatically upgraded to Grade C periodontitis?",
+    "back": "Heavy smoking independently justifies an upgrade to Grade C regardless of the bone loss to age ratio calculated from radiographs alone."
+  },
+  {
+    "id": 342,
+    "domain": "periodontology_prosthodontics_and_oral_surgery",
+    "front": "What probe is used for the Basic Periodontal Examination (BPE)?",
+    "back": "A WHO periodontal probe with a 0.5 millimetre ball tip and a coloured band between 3.5 and 5.5 millimetres."
+  },
+  {
+    "id": 343,
+    "domain": "periodontology_prosthodontics_and_oral_surgery",
+    "front": "What does a BPE score of 4 indicate, and what does it require?",
+    "back": "The coloured band is completely obscured, corresponding to pocketing of 6 millimetres or more, and it requires a full-mouth six-point pocket chart and radiographic assessment."
+  },
+  {
+    "id": 344,
+    "domain": "periodontology_prosthodontics_and_oral_surgery",
+    "front": "How is clinical attachment loss calculated, and why does it matter more than pocket depth alone?",
+    "back": "It is the sum of probing pocket depth and the amount of recession, and this figure, not pocket depth alone, drives staging in the 2017 classification."
+  },
+  {
+    "id": 345,
+    "domain": "periodontology_prosthodontics_and_oral_surgery",
+    "front": "Fill in the blank: non-surgical periodontal therapy is re-evaluated at ___ weeks.",
+    "back": "10 to 12 weeks, the minimum interval required for periodontal tissues to heal and probing depths to reflect a true response to treatment."
+  },
+  {
+    "id": 346,
+    "domain": "periodontology_prosthodontics_and_oral_surgery",
+    "front": "What persisting pocket findings after non-surgical therapy indicate a need for further intervention?",
+    "back": "Persisting pockets of 4 millimetres or more with bleeding on probing, or any pocket of 6 millimetres or more."
+  },
+  {
+    "id": 347,
+    "domain": "periodontology_prosthodontics_and_oral_surgery",
+    "front": "Why is periodontal surgery contraindicated in a patient with poor oral hygiene?",
+    "back": "Surgery on a mouth with poor plaque control will fail regardless of surgical skill; adequate plaque control must be demonstrated first."
+  },
+  {
+    "id": 348,
+    "domain": "periodontology_prosthodontics_and_oral_surgery",
+    "front": "Distinguish peri-implant mucositis from peri-implantitis.",
+    "back": "Peri-implant mucositis is reversible soft tissue inflammation with no progressive bone loss; peri-implantitis adds progressive loss of supporting bone beyond initial remodelling."
+  },
+  {
+    "id": 349,
+    "domain": "periodontology_prosthodontics_and_oral_surgery",
+    "front": "Why is peri-implantitis management more difficult than treating periodontitis?",
+    "back": "The implant's threaded titanium surface topography favours biofilm retention, and decontaminating that surface is technically challenging."
+  },
+  {
+    "id": 350,
+    "domain": "periodontology_prosthodontics_and_oral_surgery",
+    "front": "What does Kennedy Class I describe?",
+    "back": "Bilateral edentulous areas located posterior to the remaining natural teeth (bilateral free-end saddles)."
+  },
+  {
+    "id": 351,
+    "domain": "periodontology_prosthodontics_and_oral_surgery",
+    "front": "What is a Kennedy Class III edentulous space, and how is it typically supported?",
+    "back": "A unilateral bounded saddle with natural teeth remaining both anterior and posterior to it, supported by both tooth-borne and mucosa-borne mechanisms."
+  },
+  {
+    "id": 352,
+    "domain": "periodontology_prosthodontics_and_oral_surgery",
+    "front": "Why does Kennedy Class IV have no modification spaces by definition?",
+    "back": "A further anterior edentulous space would change the classification itself, since Class IV describes a single anterior edentulous space crossing the midline."
+  },
+  {
+    "id": 353,
+    "domain": "periodontology_prosthodontics_and_oral_surgery",
+    "front": "Name the three mechanical requirements every removable prosthesis must be assessed against.",
+    "back": "Support, retention and stability."
+  },
+  {
+    "id": 354,
+    "domain": "periodontology_prosthodontics_and_oral_surgery",
+    "front": "What provides support in a removable partial denture?",
+    "back": "Rests on teeth, the denture base contacting mucosa, or a combination of both, resisting forces directed towards the underlying tissues."
+  },
+  {
+    "id": 355,
+    "domain": "periodontology_prosthodontics_and_oral_surgery",
+    "front": "What are the four components of a conventional clasp assembly?",
+    "back": "A rigid reciprocal arm, a flexible retentive arm engaging an undercut, an occlusal or cingulum rest, and a minor connector to the framework."
+  },
+  {
+    "id": 356,
+    "domain": "periodontology_prosthodontics_and_oral_surgery",
+    "front": "What is the purpose of guide planes in removable partial denture design?",
+    "back": "Parallel surfaces prepared on abutment teeth used to control the path of insertion and to improve reciprocation and stability."
+  },
+  {
+    "id": 357,
+    "domain": "periodontology_prosthodontics_and_oral_surgery",
+    "front": "Why must clasp design always be assessed using a surveyor before construction?",
+    "back": "The survey line, the height of contour relative to the chosen path of insertion, determines where retentive and reciprocal elements can be placed."
+  },
+  {
+    "id": 358,
+    "domain": "periodontology_prosthodontics_and_oral_surgery",
+    "front": "Name the four mechanisms of complete denture retention described alongside residual ridge form.",
+    "back": "Adhesion, cohesion, peripheral seal, and muscular control."
+  },
+  {
+    "id": 359,
+    "domain": "periodontology_prosthodontics_and_oral_surgery",
+    "front": "What is peripheral seal in a complete denture, and how is it achieved?",
+    "back": "Accurate extension of the denture flanges to the full depth of the functional sulcus without impinging on muscle attachments, allowing atmospheric pressure to resist displacement."
+  },
+  {
+    "id": 360,
+    "domain": "periodontology_prosthodontics_and_oral_surgery",
+    "front": "Define osseointegration.",
+    "back": "The direct structural and functional connection between living bone and the surface of a load-bearing titanium implant, without an intervening layer of fibrous soft tissue."
+  },
+  {
+    "id": 361,
+    "domain": "periodontology_prosthodontics_and_oral_surgery",
+    "front": "What is a key contraindication or risk factor for dental implant treatment?",
+    "back": "Heavy smoking, which significantly increases failure rates; other risks include uncontrolled diabetes and insufficient bone volume without grafting."
+  },
+  {
+    "id": 362,
+    "domain": "periodontology_prosthodontics_and_oral_surgery",
+    "front": "Distinguish centric relation from centric occlusion.",
+    "back": "Centric relation is a reproducible bone-to-bone jaw position independent of tooth contact, while centric occlusion is the position of maximum tooth contact; in most patients these are not identical."
+  },
+  {
+    "id": 363,
+    "domain": "periodontology_prosthodontics_and_oral_surgery",
+    "front": "What is canine guidance during lateral excursion?",
+    "back": "An occlusal scheme in which contact occurs only on the canine teeth of the working side, disengaging all posterior teeth."
+  },
+  {
+    "id": 364,
+    "domain": "periodontology_prosthodontics_and_oral_surgery",
+    "front": "What is fremitus, and what does it indicate?",
+    "back": "Palpable movement of a tooth during function, one of the signs of occlusal trauma."
+  },
+  {
+    "id": 365,
+    "domain": "periodontology_prosthodontics_and_oral_surgery",
+    "front": "Distinguish primary from secondary occlusal trauma.",
+    "back": "Primary occlusal trauma occurs on a tooth with normal periodontal support subjected to excessive force; secondary occurs on a tooth with reduced periodontal support subjected to normal or slightly increased force."
+  },
+  {
+    "id": 366,
+    "domain": "periodontology_prosthodontics_and_oral_surgery",
+    "front": "What is the difference between simple and surgical tooth extraction?",
+    "back": "Simple extraction uses elevators and forceps alone, while surgical extraction is needed when a tooth cannot be delivered by simple means, requiring a mucoperiosteal flap and bone removal."
+  },
+  {
+    "id": 367,
+    "domain": "periodontology_prosthodontics_and_oral_surgery",
+    "front": "Why is copious saline irrigation used during surgical bone removal with a handpiece?",
+    "back": "To prevent thermal damage to the surrounding bone."
+  },
+  {
+    "id": 368,
+    "domain": "periodontology_prosthodontics_and_oral_surgery",
+    "front": "What radiographic signs suggest a lower third molar root is in close proximity to the inferior alveolar canal?",
+    "back": "Darkening of the root where it crosses the canal, deflection or narrowing of the root, interruption of the canal's white line, and narrowing of the canal."
+  },
+  {
+    "id": 369,
+    "domain": "periodontology_prosthodontics_and_oral_surgery",
+    "front": "According to NICE guidance, should pathology-free impacted third molars be removed prophylactically?",
+    "back": "No, routine prophylactic removal is not advised; removal is indicated only for recurrent pericoronitis, unrestorable caries, cystic change, resorption, or to facilitate other necessary treatment."
+  },
+  {
+    "id": 370,
+    "domain": "periodontology_prosthodontics_and_oral_surgery",
+    "front": "Scenario: a patient presents with severe throbbing pain two to four days after an extraction, a malodorous empty socket, and no swelling. What is the diagnosis?",
+    "back": "Dry socket (alveolar osteitis), a localised inflammatory condition caused by loss or failure of the blood clot, not a true infective process."
+  },
+  {
+    "id": 371,
+    "domain": "periodontology_prosthodontics_and_oral_surgery",
+    "front": "Are antibiotics routinely indicated for dry socket?",
+    "back": "No, since dry socket is not primarily an infective process; management is symptomatic with irrigation, debridement and an obtundent dressing."
+  },
+  {
+    "id": 372,
+    "domain": "periodontology_prosthodontics_and_oral_surgery",
+    "front": "Which extraction is most commonly associated with oro-antral communication?",
+    "back": "Extraction of an upper first or second molar, because of the close proximity of the roots to the antral floor."
+  },
+  {
+    "id": 373,
+    "domain": "periodontology_prosthodontics_and_oral_surgery",
+    "front": "What clinical signs suggest an oro-antral communication?",
+    "back": "A bubbling of blood at the socket, a change in voice resonance, fluid regurgitation into the nose on drinking, and a positive gentle nose-blowing test."
+  },
+  {
+    "id": 374,
+    "domain": "periodontology_prosthodontics_and_oral_surgery",
+    "front": "How is a small oro-antral communication of a few millimetres generally managed?",
+    "back": "Conservatively, with instructions to avoid nose-blowing and sneezing with the mouth closed, antibiotics, decongestant, and encouragement of clot formation."
+  },
+  {
+    "id": 375,
+    "domain": "periodontology_prosthodontics_and_oral_surgery",
+    "front": "Which nerve injury during lower third molar surgery presents as altered sensation or taste disturbance of the tongue?",
+    "back": "Lingual nerve injury, most often resulting from lingual flap retraction or perforation of the lingual plate."
+  },
+  {
+    "id": 376,
+    "domain": "periodontology_prosthodontics_and_oral_surgery",
+    "front": "What is the expected outcome for most nerve injuries following lower third molar surgery?",
+    "back": "Most are neurapraxias that resolve within weeks to months; persistent symptoms beyond this should prompt specialist referral."
+  },
+  {
+    "id": 377,
+    "domain": "periodontology_prosthodontics_and_oral_surgery",
+    "front": "What is alveoloplasty?",
+    "back": "Surgical recontouring of a sharp or irregular alveolar ridge at the time of extraction to provide a smoother base for a subsequent denture."
+  },
+  {
+    "id": 378,
+    "domain": "periodontology_prosthodontics_and_oral_surgery",
+    "front": "What is apicectomy, and when is it indicated?",
+    "back": "Surgical removal of the root apex for periapical pathology that has not resolved with conventional root canal retreatment."
+  },
+  {
+    "id": 379,
+    "domain": "periodontology_prosthodontics_and_oral_surgery",
+    "front": "What is a frenectomy indicated for?",
+    "back": "Where an abnormal frenal attachment is contributing to a diastema, gingival recession, or denture instability."
+  },
+  {
+    "id": 380,
+    "domain": "periodontology_prosthodontics_and_oral_surgery",
+    "front": "Fill in the blank: a BPE score of ___ warrants a detailed six-point pocket chart of that sextant.",
+    "back": "3"
+  },
+  {
+    "id": 381,
+    "domain": "periodontology_prosthodontics_and_oral_surgery",
+    "front": "What does Miller's Grade III mobility include that Grades I and II do not?",
+    "back": "Vertical mobility, whereas Grade I is up to 1 millimetre horizontal mobility and Grade II is over 1 millimetre horizontal mobility."
+  },
+  {
+    "id": 382,
+    "domain": "periodontology_prosthodontics_and_oral_surgery",
+    "front": "What comprises non-surgical periodontal therapy?",
+    "back": "Patient education and oral hygiene instruction, smoking cessation advice, removal of plaque-retentive factors, and supra- and subgingival instrumentation."
+  },
+  {
+    "id": 383,
+    "domain": "periodontology_prosthodontics_and_oral_surgery",
+    "front": "What technique is used for regenerative treatment of vertical bony defects in periodontal surgery?",
+    "back": "Guided tissue regeneration."
+  },
+  {
+    "id": 384,
+    "domain": "periodontology_prosthodontics_and_oral_surgery",
+    "front": "Why is smoking a contraindication to periodontal surgery when the patient is unwilling to quit?",
+    "back": "Continued heavy smoking without willingness to quit is listed as a contraindication, since it impairs healing and the surgical outcome."
+  },
+  {
+    "id": 385,
+    "domain": "periodontology_prosthodontics_and_oral_surgery",
+    "front": "What is group function during lateral excursive movement?",
+    "back": "An occlusal scheme where several teeth on the working side, typically premolars and sometimes the first molar's mesiobuccal cusp, share the guiding contact along with the canine."
+  },
+  {
+    "id": 386,
+    "domain": "periodontology_prosthodontics_and_oral_surgery",
+    "front": "Which type of edentulous saddle relies more heavily on mucosal support and requires design features to minimise rotational leverage?",
+    "back": "Free-end saddles (Kennedy Class I and II), unlike bounded saddles (Class III) which benefit from both tooth-borne and mucosa-borne support."
+  },
+  {
+    "id": 387,
+    "domain": "periodontology_prosthodontics_and_oral_surgery",
+    "front": "What horizontal undercut is typically engaged by the retentive arm of a cast cobalt-chromium clasp?",
+    "back": "Around 0.25 millimetres, enough to resist dislodging forces without exceeding the elastic limit of the alloy on insertion and removal."
+  },
+  {
+    "id": 388,
+    "domain": "periodontology_prosthodontics_and_oral_surgery",
+    "front": "Name one factor besides smoking and diabetes that influences implant success at the surgical stage.",
+    "back": "Atraumatic surgical technique that avoids overheating bone during preparation, alongside primary stability and adequate healing time."
+  },
+  {
+    "id": 389,
+    "domain": "periodontology_prosthodontics_and_oral_surgery",
+    "front": "What is required before periodontal surgery is considered as an option?",
+    "back": "Completion of non-surgical therapy and demonstration by the patient of adequate plaque control."
+  },
+  {
+    "id": 390,
+    "domain": "periodontology_prosthodontics_and_oral_surgery",
+    "front": "What indicates the need for cone beam computed tomography before lower third molar removal?",
+    "back": "Radiographic signs suggesting close proximity to the inferior alveolar nerve, since CBCT further defines the three-dimensional relationship before surgery."
+  },
+  {
+    "id": 391,
+    "domain": "periodontology_prosthodontics_and_oral_surgery",
+    "front": "What factors are assessed before deciding to remove a lower third molar?",
+    "back": "Its relationship to the inferior alveolar canal, angulation, depth of impaction, available space distal to the second molar, and any associated pathology."
+  },
+  {
+    "id": 392,
+    "domain": "periodontology_prosthodontics_and_oral_surgery",
+    "front": "What risk factors are associated with dry socket?",
+    "back": "Smoking, oral contraceptive use, traumatic extraction, extraction of mandibular molars, and poor oral hygiene."
+  },
+  {
+    "id": 393,
+    "domain": "periodontology_prosthodontics_and_oral_surgery",
+    "front": "How is oral hygiene assessed to determine if surgical closure of a larger oro-antral communication is needed?",
+    "back": "By the size of the communication and whether spontaneous healing is likely: a small communication (up to about 2mm) often heals spontaneously, while a larger one usually needs surgical closure."
+  },
+  {
+    "id": 394,
+    "domain": "periodontology_prosthodontics_and_oral_surgery",
+    "front": "What complicating factors are denoted by an asterisk in BPE scoring?",
+    "back": "Furcation involvement, mobility, mucogingival problems, or recession of 3.5 millimetres or greater."
+  },
+  {
+    "id": 395,
+    "domain": "periodontology_prosthodontics_and_oral_surgery",
+    "front": "What is Grade A periodontitis progression, and what bone loss to age ratio defines it?",
+    "back": "Slow progression, with a bone loss to age ratio below 0.25, no smoking and no diabetes."
+  },
+  {
+    "id": 396,
+    "domain": "periodontology_prosthodontics_and_oral_surgery",
+    "front": "How are peri-implantitis and periodontitis risk factors related?",
+    "back": "Peri-implantitis risk factors mirror those for periodontitis, including a history of periodontitis, poor plaque control, smoking, and lack of regular maintenance."
+  },
+  {
+    "id": 397,
+    "domain": "periodontology_prosthodontics_and_oral_surgery",
+    "front": "What denture-related feature contributes to complete denture retention besides adhesion, cohesion and peripheral seal?",
+    "back": "Muscular control from the buccinator and orbicularis oris acting against a correctly contoured polished surface, along with a well-defined residual ridge form."
+  },
+  {
+    "id": 398,
+    "domain": "periodontology_prosthodontics_and_oral_surgery",
+    "front": "What six sites per tooth are recorded in full periodontal charting?",
+    "back": "Mesiobuccal, buccal, distobuccal, mesiolingual, lingual and distolingual."
+  },
+  {
+    "id": 399,
+    "domain": "periodontology_prosthodontics_and_oral_surgery",
+    "front": "Why is prophylactic removal of a pathology-free impacted third molar not recommended?",
+    "back": "It exposes patients to surgical risk, including inferior alveolar and lingual nerve injury, without a demonstrated corresponding benefit."
+  },
+  {
+    "id": 400,
+    "domain": "periodontology_prosthodontics_and_oral_surgery",
+    "front": "What defines Grade C periodontitis progression by bone loss to age ratio alone?",
+    "back": "A ratio above 1.0, indicating rapid progression."
+  },
+  {
+    "id": 401,
+    "domain": "orthodontics_paediatric_dentistry_and_radiology",
+    "front": "By what age is the primary dentition normally complete?",
+    "back": "Around two and a half to three years of age, with all twenty primary teeth present."
+  },
+  {
+    "id": 402,
+    "domain": "orthodontics_paediatric_dentistry_and_radiology",
+    "front": "What is the significance of primate spaces in the primary dentition?",
+    "back": "This generalised spacing, mesial to the upper primary canines and distal to the lower primary canines, provides room for the larger permanent incisors that will replace the primary incisors."
+  },
+  {
+    "id": 403,
+    "domain": "orthodontics_paediatric_dentistry_and_radiology",
+    "front": "Which teeth erupt first at the start of the mixed dentition stage, at around six years?",
+    "back": "The first permanent molars, behind the primary second molars, and the lower central incisors."
+  },
+  {
+    "id": 404,
+    "domain": "orthodontics_paediatric_dentistry_and_radiology",
+    "front": "What does the leeway space allow the first permanent molar to do?",
+    "back": "It provides space that allows the first permanent molar to drift forward slightly, or that can be preserved to relieve mild crowding, and is greater in the lower arch."
+  },
+  {
+    "id": 405,
+    "domain": "orthodontics_paediatric_dentistry_and_radiology",
+    "front": "What defines Angle's Class I molar relationship?",
+    "back": "The mesiobuccal cusp of the upper first permanent molar occludes with the mesiobuccal groove of the lower first permanent molar."
+  },
+  {
+    "id": 406,
+    "domain": "orthodontics_paediatric_dentistry_and_radiology",
+    "front": "Distinguish Class II division 1 from Class II division 2 malocclusion.",
+    "back": "Division 1 shows proclined or normally inclined upper incisors with increased overjet; division 2 shows retroclined upper central incisors, often with reduced or negative overjet and increased overbite."
+  },
+  {
+    "id": 407,
+    "domain": "orthodontics_paediatric_dentistry_and_radiology",
+    "front": "What incisor relationship is typical of Class III malocclusion?",
+    "back": "A reduced or reversed overjet, sometimes with an anterior crossbite of one or more incisors."
+  },
+  {
+    "id": 408,
+    "domain": "orthodontics_paediatric_dentistry_and_radiology",
+    "front": "Scenario: a child loses a primary canine unilaterally. What complication should be assessed for?",
+    "back": "A shift of the dental midline, since unilateral loss can cause the labial segment to drift towards the extraction side."
+  },
+  {
+    "id": 409,
+    "domain": "orthodontics_paediatric_dentistry_and_radiology",
+    "front": "What is a distal shoe appliance used for?",
+    "back": "When the first permanent molar has not yet erupted and the second primary molar is lost early, guiding the first permanent molar into its correct position."
+  },
+  {
+    "id": 410,
+    "domain": "orthodontics_paediatric_dentistry_and_radiology",
+    "front": "What is the fundamental limitation of removable orthodontic appliances compared with fixed appliances?",
+    "back": "They can only tip teeth using a limited range of forces and cannot achieve bodily movement, rotation control or precise three-dimensional tooth positioning."
+  },
+  {
+    "id": 411,
+    "domain": "orthodontics_paediatric_dentistry_and_radiology",
+    "front": "What is an example of a functional appliance, and what malocclusion is it typically used for?",
+    "back": "The twin block appliance, most commonly used in the treatment of Class II division 1 malocclusion during the adolescent growth spurt."
+  },
+  {
+    "id": 412,
+    "domain": "orthodontics_paediatric_dentistry_and_radiology",
+    "front": "What does the Dental Health Component of IOTN grade, and on what basis?",
+    "back": "Malocclusion severity, from grade 1 (no need) to grade 5 (very great need), based on the single worst feature of the occlusion."
+  },
+  {
+    "id": 413,
+    "domain": "orthodontics_paediatric_dentistry_and_radiology",
+    "front": "What IOTN threshold generally qualifies a patient for NHS orthodontic treatment in England?",
+    "back": "Dental Health Component grade 4 or 5, or grade 3 combined with an Aesthetic Component score of 6 or above."
+  },
+  {
+    "id": 414,
+    "domain": "orthodontics_paediatric_dentistry_and_radiology",
+    "front": "Describe the tell-show-do behaviour management technique.",
+    "back": "A procedure is explained in child-friendly language, demonstrated on a safe surface or the child's finger, and then carried out."
+  },
+  {
+    "id": 415,
+    "domain": "orthodontics_paediatric_dentistry_and_radiology",
+    "front": "When is general anaesthesia appropriate for paediatric dental treatment?",
+    "back": "Only as a last resort where other techniques have failed or are inappropriate; never used solely for extracting teeth that could otherwise be managed under local anaesthesia with behaviour support."
+  },
+  {
+    "id": 416,
+    "domain": "orthodontics_paediatric_dentistry_and_radiology",
+    "front": "What is the most common form of conscious sedation used in paediatric dentistry?",
+    "back": "Inhalation sedation using titrated nitrous oxide and oxygen."
+  },
+  {
+    "id": 417,
+    "domain": "orthodontics_paediatric_dentistry_and_radiology",
+    "front": "How often should fluoride varnish be applied to children's teeth, per UK guidance?",
+    "back": "At least twice a year from the time the first primary teeth erupt, up to four times a year for children at higher caries risk."
+  },
+  {
+    "id": 418,
+    "domain": "orthodontics_paediatric_dentistry_and_radiology",
+    "front": "What fluoride toothpaste concentration is recommended for children aged three to six years?",
+    "back": "1,000 parts per million or above, using a pea-sized amount."
+  },
+  {
+    "id": 419,
+    "domain": "orthodontics_paediatric_dentistry_and_radiology",
+    "front": "From what age can a higher-strength 2,800 parts per million fluoride toothpaste be prescribed for a high-risk child?",
+    "back": "From the age of ten years."
+  },
+  {
+    "id": 420,
+    "domain": "orthodontics_paediatric_dentistry_and_radiology",
+    "front": "Why should children spit rather than rinse after brushing?",
+    "back": "Spitting out rather than rinsing maximises the topical benefit of the residual fluoride."
+  },
+  {
+    "id": 421,
+    "domain": "orthodontics_paediatric_dentistry_and_radiology",
+    "front": "Why are avulsed primary teeth never replanted?",
+    "back": "The reinsertion procedure risks driving the root into the developing permanent tooth germ, causing enamel hypoplasia, discolouration, or other developmental disturbance."
+  },
+  {
+    "id": 422,
+    "domain": "orthodontics_paediatric_dentistry_and_radiology",
+    "front": "What material is commonly used as a haemostatic agent for primary tooth pulpotomy, replacing formocresol?",
+    "back": "Ferric sulfate, which achieves haemostasis without the mummifying, cytotoxic effect associated with formocresol."
+  },
+  {
+    "id": 423,
+    "domain": "orthodontics_paediatric_dentistry_and_radiology",
+    "front": "What restoration is usually placed on a primary tooth after pulpotomy?",
+    "back": "A preformed metal crown, providing a durable, well-sealed coronal restoration."
+  },
+  {
+    "id": 424,
+    "domain": "orthodontics_paediatric_dentistry_and_radiology",
+    "front": "Scenario: a primary tooth pulp is non-vital with a sinus tract present. What is generally indicated?",
+    "back": "Extraction, rather than further pulp therapy, since primary tooth root canal treatment is far less predictable."
+  },
+  {
+    "id": 425,
+    "domain": "orthodontics_paediatric_dentistry_and_radiology",
+    "front": "How is dental neglect in a child defined?",
+    "back": "The persistent failure to meet a child's basic oral health needs, likely to result in serious impairment of the child's oral or general health or development."
+  },
+  {
+    "id": 426,
+    "domain": "orthodontics_paediatric_dentistry_and_radiology",
+    "front": "What is one intraoral sign that may raise concern about non-accidental injury in a child?",
+    "back": "A torn labial or lingual frenum in a child too young to have caused this through normal activity."
+  },
+  {
+    "id": 427,
+    "domain": "orthodontics_paediatric_dentistry_and_radiology",
+    "front": "What should a dental professional do if they have a safeguarding concern about a child?",
+    "back": "Follow local safeguarding procedures, discuss with the practice's named safeguarding lead, document findings, and refer to children's social care or the police if there is immediate danger; never simply treat the presenting dental problem alone."
+  },
+  {
+    "id": 428,
+    "domain": "orthodontics_paediatric_dentistry_and_radiology",
+    "front": "Under IRR17, what is protected, compared with IRMER17?",
+    "back": "IRR17 (Ionising Radiations Regulations 2017) protects staff and the public from the radiation equipment itself, while IRMER17 governs protection of the patient undergoing the medical exposure."
+  },
+  {
+    "id": 429,
+    "domain": "orthodontics_paediatric_dentistry_and_radiology",
+    "front": "What does the principle of justification under IRMER17 require?",
+    "back": "Every exposure must be justified in advance, weighing diagnostic benefit against radiation risk; no exposure should be carried out without a proper clinical indication."
+  },
+  {
+    "id": 430,
+    "domain": "orthodontics_paediatric_dentistry_and_radiology",
+    "front": "What does the principle of optimisation under IRMER17 require?",
+    "back": "Once an exposure is justified, the dose used must be kept to the minimum necessary, through means such as correct exposure settings, proper collimation, and lead aprons or thyroid collars where appropriate."
+  },
+  {
+    "id": 431,
+    "domain": "orthodontics_paediatric_dentistry_and_radiology",
+    "front": "Under IRMER17, who confirms that an individual exposure is appropriately justified?",
+    "back": "The practitioner, a registered healthcare professional, though this role is often held by the same dentist who then acts as the operator."
+  },
+  {
+    "id": 432,
+    "domain": "orthodontics_paediatric_dentistry_and_radiology",
+    "front": "Can a dental nurse act as an operator under IRMER17?",
+    "back": "Yes, a suitably trained dental nurse can act as an operator for the practical taking of an image, without necessarily being entitled to justify or clinically report on it."
+  },
+  {
+    "id": 433,
+    "domain": "orthodontics_paediatric_dentistry_and_radiology",
+    "front": "Why is the paralleling technique preferred over the bisecting angle technique for periapical radiographs?",
+    "back": "It produces a geometrically more accurate image with less distortion, minimising foreshortening and elongation."
+  },
+  {
+    "id": 434,
+    "domain": "orthodontics_paediatric_dentistry_and_radiology",
+    "front": "What is the technique of choice for detecting approximal caries between posterior teeth?",
+    "back": "Bitewing radiographs, since they show interproximal contact areas clearly without the superimposition problems of a periapical view."
+  },
+  {
+    "id": 435,
+    "domain": "orthodontics_paediatric_dentistry_and_radiology",
+    "front": "What is the main limitation of panoramic radiography (OPG) compared with intraoral views?",
+    "back": "Lower resolution, and it is subject to magnification and distortion, particularly in the anterior region, so it is not the technique of choice for detecting early approximal caries."
+  },
+  {
+    "id": 436,
+    "domain": "orthodontics_paediatric_dentistry_and_radiology",
+    "front": "Why must cone beam computed tomography (CBCT) be individually justified for each case?",
+    "back": "It provides a considerably higher radiation dose than conventional two-dimensional dental radiographs, so it should only be used where the diagnostic information cannot be obtained from conventional imaging."
+  },
+  {
+    "id": 437,
+    "domain": "orthodontics_paediatric_dentistry_and_radiology",
+    "front": "What common radiographic pitfall involves a periapical radiolucency near the lower premolar apices?",
+    "back": "Mistaking the mental foramen for a periapical radiolucency, particularly when it appears superimposed over or close to a premolar apex."
+  },
+  {
+    "id": 438,
+    "domain": "orthodontics_paediatric_dentistry_and_radiology",
+    "front": "What is cervical burnout, and why is it a common interpretation pitfall?",
+    "back": "An artefactual radiolucent band seen at the cervical margin of a tooth due to reduced tooth thickness at that point, which can be mistaken for true caries."
+  },
+  {
+    "id": 439,
+    "domain": "orthodontics_paediatric_dentistry_and_radiology",
+    "front": "What radiopaque landmark can be superimposed over upper molar roots and mistaken for pathology or root fracture?",
+    "back": "The zygomatic process and zygomatic buttress."
+  },
+  {
+    "id": 440,
+    "domain": "orthodontics_paediatric_dentistry_and_radiology",
+    "front": "What does the mandibular canal on a radiograph carry, and why is its relationship to the roots important?",
+    "back": "It carries the inferior alveolar nerve and vessels; its relationship to lower molar roots and impacted third molars is important when planning extractions."
+  },
+  {
+    "id": 441,
+    "domain": "orthodontics_paediatric_dentistry_and_radiology",
+    "front": "Fill in the blank: an avulsed permanent tooth replanted within about ___ minutes with minimal dry time has a good prognosis for periodontal ligament survival.",
+    "back": "5 to 10 minutes"
+  },
+  {
+    "id": 442,
+    "domain": "orthodontics_paediatric_dentistry_and_radiology",
+    "front": "What eruption sequence generally follows the lower and upper central and lateral incisors in the mixed dentition?",
+    "back": "First premolars, canines and second premolars, then second molars, and finally third molars in early adulthood if present."
+  },
+  {
+    "id": 443,
+    "domain": "orthodontics_paediatric_dentistry_and_radiology",
+    "front": "What should be suspected when a primary tooth is retained well beyond the expected eruption date of its permanent successor?",
+    "back": "Ectopic position, impaction, or absence of the permanent successor, warranting radiographic investigation."
+  },
+  {
+    "id": 444,
+    "domain": "orthodontics_paediatric_dentistry_and_radiology",
+    "front": "What is the lingual arch appliance used for in space maintenance?",
+    "back": "Maintaining space bilaterally in the lower arch, using the erupted permanent molars as abutments."
+  },
+  {
+    "id": 445,
+    "domain": "orthodontics_paediatric_dentistry_and_radiology",
+    "front": "Why do fixed appliances not depend on patient compliance to remain in place, unlike removable appliances?",
+    "back": "Fixed appliances are bonded to the teeth via brackets and archwires, whereas removable appliances rely on the patient actually wearing them as instructed."
+  },
+  {
+    "id": 446,
+    "domain": "orthodontics_paediatric_dentistry_and_radiology",
+    "front": "What oral hygiene risk is specifically associated with fixed orthodontic appliances?",
+    "back": "Plaque accumulation around brackets increases the risk of decalcification and caries."
+  },
+  {
+    "id": 447,
+    "domain": "orthodontics_paediatric_dentistry_and_radiology",
+    "front": "How is the Aesthetic Component of IOTN scored?",
+    "back": "Using a set of ten standardised photographs showing a graded range of dental attractiveness, against which the patient's anterior tooth appearance is compared and scored from 1 to 10."
+  },
+  {
+    "id": 448,
+    "domain": "orthodontics_paediatric_dentistry_and_radiology",
+    "front": "Why can severe skeletal Class III malocclusion require a combined orthodontic and orthognathic surgical approach?",
+    "back": "Orthodontics alone cannot correct a significant skeletal discrepancy such as mandibular prognathism or maxillary retrognathia."
+  },
+  {
+    "id": 449,
+    "domain": "orthodontics_paediatric_dentistry_and_radiology",
+    "front": "What angulation is used for the X-ray beam when taking a bitewing radiograph, and why?",
+    "back": "A slight downward angulation of around five to eight degrees, to compensate for the curvature of the arch."
+  },
+  {
+    "id": 450,
+    "domain": "orthodontics_paediatric_dentistry_and_radiology",
+    "front": "What is the role of the employer under IRMER17?",
+    "back": "The legal entity responsible for setting up written procedures, protocols and quality assurance programmes governing radiographic practice within the organisation."
+  },
+  {
+    "id": 451,
+    "domain": "law_ethics_professionalism_and_health_and_safety",
+    "front": "Under which Act is it a criminal offence to practise dentistry in the UK without GDC registration?",
+    "back": "The Dentists Act 1984."
+  },
+  {
+    "id": 452,
+    "domain": "law_ethics_professionalism_and_health_and_safety",
+    "front": "What is Principle 1 of the GDC's Standards for the Dental Team?",
+    "back": "Put patients' interests first."
+  },
+  {
+    "id": 453,
+    "domain": "law_ethics_professionalism_and_health_and_safety",
+    "front": "What does Principle 8 of the GDC's Standards require?",
+    "back": "Raise concerns if patients are at risk."
+  },
+  {
+    "id": 454,
+    "domain": "law_ethics_professionalism_and_health_and_safety",
+    "front": "Scenario: a dentist notices a well-liked colleague rushing extractions and cutting corners on aseptic technique. What is the correct response?",
+    "back": "Raise the concern, first informally if appropriate, then through the practice's clinical governance or directly to the GDC if patient safety is at risk and internal routes fail; staying silent is itself a breach."
+  },
+  {
+    "id": 455,
+    "domain": "law_ethics_professionalism_and_health_and_safety",
+    "front": "What is Principle 9 of the GDC's Standards for the Dental Team?",
+    "back": "Make sure your personal behaviour maintains patients' confidence in you and the dental profession."
+  },
+  {
+    "id": 456,
+    "domain": "law_ethics_professionalism_and_health_and_safety",
+    "front": "What case established the pre-Montgomery Bolam test for consent and risk disclosure?",
+    "back": "Bolam v Friern Hospital Management Committee (1957), under which disclosure was lawful if a responsible body of medical opinion would have disclosed the same information."
+  },
+  {
+    "id": 457,
+    "domain": "law_ethics_professionalism_and_health_and_safety",
+    "front": "What did Montgomery v Lanarkshire Health Board (2015) replace the Bolam test with, for consent purposes?",
+    "back": "A patient-centred test requiring a clinician to take reasonable care to ensure the patient is aware of any material risks and reasonable alternatives."
+  },
+  {
+    "id": 458,
+    "domain": "law_ethics_professionalism_and_health_and_safety",
+    "front": "How is a risk defined as material under the Montgomery test?",
+    "back": "If a reasonable person in the patient's position would be likely to attach significance to it, or if the clinician is or should reasonably be aware that this particular patient would attach significance to it."
+  },
+  {
+    "id": 459,
+    "domain": "law_ethics_professionalism_and_health_and_safety",
+    "front": "Scenario: a dentist fails to mention nerve injury risk before a lower third molar extraction because most other dentists also do not routinely mention it. Is this defence valid under current UK law?",
+    "back": "No, this Bolam-style defence no longer succeeds under Montgomery; the question is whether a reasonable patient, or this particular patient, would have wanted to know."
+  },
+  {
+    "id": 460,
+    "domain": "law_ethics_professionalism_and_health_and_safety",
+    "front": "Why might a small statistical risk still need to be disclosed to a particular patient under Montgomery?",
+    "back": "Materiality is judged partly from the individual patient's perspective; a small risk of great personal significance, such as altered speech sensation for a singer, must still be disclosed."
+  },
+  {
+    "id": 461,
+    "domain": "law_ethics_professionalism_and_health_and_safety",
+    "front": "Does consent for one procedure extend to a different procedure discovered necessary during treatment?",
+    "back": "No, save for genuine emergencies; a patient consented for a filling has not consented to an extraction if the tooth is found unrestorable."
+  },
+  {
+    "id": 462,
+    "domain": "law_ethics_professionalism_and_health_and_safety",
+    "front": "What case established the concept of Gillick competence?",
+    "back": "Gillick v West Norfolk and Wisbech Area Health Authority (1985), a House of Lords case."
+  },
+  {
+    "id": 463,
+    "domain": "law_ethics_professionalism_and_health_and_safety",
+    "front": "What determines whether a child under 16 is Gillick competent to consent to their own dental treatment?",
+    "back": "Whether they have sufficient understanding and intelligence to fully comprehend what is proposed, including its purpose, nature and likely risks and benefits, not age alone."
+  },
+  {
+    "id": 464,
+    "domain": "law_ethics_professionalism_and_health_and_safety",
+    "front": "Under which Act are 16- and 17-year-olds in England and Wales presumed to have capacity to consent to their own treatment?",
+    "back": "The Family Law Reform Act 1969."
+  },
+  {
+    "id": 465,
+    "domain": "law_ethics_professionalism_and_health_and_safety",
+    "front": "Can a 16- or 17-year-old's refusal of dental treatment be overridden, unlike a competent adult's refusal?",
+    "back": "Yes, in some circumstances a refusal by a 16- or 17-year-old can still be overridden in their best interests."
+  },
+  {
+    "id": 466,
+    "domain": "law_ethics_professionalism_and_health_and_safety",
+    "front": "Which Act governs adults who may lack capacity to consent in England and Wales?",
+    "back": "The Mental Capacity Act 2005."
+  },
+  {
+    "id": 467,
+    "domain": "law_ethics_professionalism_and_health_and_safety",
+    "front": "What is Scotland's equivalent legislation to the Mental Capacity Act 2005?",
+    "back": "The Adults with Incapacity (Scotland) Act 2000."
+  },
+  {
+    "id": 468,
+    "domain": "law_ethics_professionalism_and_health_and_safety",
+    "front": "List the five statutory principles of the Mental Capacity Act 2005.",
+    "back": "Assume capacity unless established otherwise, help the person make their own decision before treating them as unable, respect unwise decisions, act in the person's best interests, and use the least restrictive option."
+  },
+  {
+    "id": 469,
+    "domain": "law_ethics_professionalism_and_health_and_safety",
+    "front": "Is capacity under the Mental Capacity Act assessed globally or decision-specifically?",
+    "back": "Decision-specific and time-specific; a patient may lack capacity for complex treatment planning but retain capacity to consent to simple pain relief."
+  },
+  {
+    "id": 470,
+    "domain": "law_ethics_professionalism_and_health_and_safety",
+    "front": "What four elements does the Mental Capacity Act test for capacity assess?",
+    "back": "Whether the person can understand the relevant information, retain it long enough to decide, weigh it in the decision-making process, and communicate their decision."
+  },
+  {
+    "id": 471,
+    "domain": "law_ethics_professionalism_and_health_and_safety",
+    "front": "Who might be consulted for a significant best interests decision if no one close to the patient is available?",
+    "back": "An Independent Mental Capacity Advocate."
+  },
+  {
+    "id": 472,
+    "domain": "law_ethics_professionalism_and_health_and_safety",
+    "front": "Which GDC principle requires dentists to maintain and protect patients' information?",
+    "back": "Principle 4."
+  },
+  {
+    "id": 473,
+    "domain": "law_ethics_professionalism_and_health_and_safety",
+    "front": "What UK statutory law, alongside common law confidentiality, governs patient data protection?",
+    "back": "The UK General Data Protection Regulation (UK GDPR) together with the Data Protection Act 2018."
+  },
+  {
+    "id": 474,
+    "domain": "law_ethics_professionalism_and_health_and_safety",
+    "front": "In what limited circumstances can patient confidentiality be breached?",
+    "back": "With the patient's consent, where disclosure is required by law, or where disclosure is justified in the public interest, such as to prevent serious harm."
+  },
+  {
+    "id": 475,
+    "domain": "law_ethics_professionalism_and_health_and_safety",
+    "front": "Scenario: a patient's employer asks a dentist for clinical information without the patient's consent. Should the dentist disclose it?",
+    "back": "Generally no, unless one of the limited exceptions to confidentiality applies, and even then disclosure should be the minimum necessary."
+  },
+  {
+    "id": 476,
+    "domain": "law_ethics_professionalism_and_health_and_safety",
+    "front": "What right do patients have regarding their own dental records under data protection law?",
+    "back": "A right of access to their own records, usually free of charge, with practices required to respond to subject access requests within statutory time limits."
+  },
+  {
+    "id": 477,
+    "domain": "law_ethics_professionalism_and_health_and_safety",
+    "front": "What GDC Principles are explicitly linked to good record-keeping standards?",
+    "back": "Principles 1, 3 and 4."
+  },
+  {
+    "id": 478,
+    "domain": "law_ethics_professionalism_and_health_and_safety",
+    "front": "What elements should a complete dental record typically include?",
+    "back": "Medical and dental history, presenting complaint, clinical findings, radiographic justification, treatment plan, consent process, treatment provided, complications, and follow-up arrangements."
+  },
+  {
+    "id": 479,
+    "domain": "law_ethics_professionalism_and_health_and_safety",
+    "front": "Why does poor record-keeping frequently feature in GDC fitness to practise cases?",
+    "back": "It often compounds an otherwise minor clinical error, since it leaves the dentist unable to demonstrate that appropriate care and a proper consent discussion took place."
+  },
+  {
+    "id": 480,
+    "domain": "law_ethics_professionalism_and_health_and_safety",
+    "front": "What is the purpose of the GDC's fitness to practise process?",
+    "back": "To protect the public, not to punish dentists."
+  },
+  {
+    "id": 481,
+    "domain": "law_ethics_professionalism_and_health_and_safety",
+    "front": "What grounds can lead to a fitness to practise concern being raised with the GDC?",
+    "back": "Misconduct, deficient professional performance, adverse physical or mental health, a criminal conviction or caution, or a finding by another regulatory body."
+  },
+  {
+    "id": 482,
+    "domain": "law_ethics_professionalism_and_health_and_safety",
+    "front": "Define the professional duty of candour.",
+    "back": "When something goes wrong that has caused, or could cause, harm or distress, the dentist must be open and honest with the patient, explain what happened, apologise, and explain how recurrence will be prevented."
+  },
+  {
+    "id": 483,
+    "domain": "law_ethics_professionalism_and_health_and_safety",
+    "front": "Scenario: a dentist leaves a fragment of a broken instrument tip in a root canal, and the asymptomatic patient has not noticed. What is the correct action?",
+    "back": "Duty of candour requires informing the patient of what happened, explaining the clinical significance and monitoring plan, and documenting this fully, regardless of whether the patient noticed."
+  },
+  {
+    "id": 484,
+    "domain": "law_ethics_professionalism_and_health_and_safety",
+    "front": "Does the duty of candour depend on a complaint being made?",
+    "back": "No, it exists independently of any complaint and independently of whether the patient has noticed the error."
+  },
+  {
+    "id": 485,
+    "domain": "law_ethics_professionalism_and_health_and_safety",
+    "front": "What should a dentist do upon developing a safeguarding concern about a child, rather than investigating it themselves?",
+    "back": "Record objectively what has been observed, discuss with the practice's safeguarding lead, and refer to the relevant local authority children's services or adult safeguarding team, or the police in an emergency."
+  },
+  {
+    "id": 486,
+    "domain": "law_ethics_professionalism_and_health_and_safety",
+    "front": "Why should a dentist never independently investigate or confront a suspected abuser?",
+    "back": "It can compromise both the child's safety and any subsequent investigation."
+  },
+  {
+    "id": 487,
+    "domain": "law_ethics_professionalism_and_health_and_safety",
+    "front": "What does COSHH require employers to do?",
+    "back": "Assess the risks from hazardous substances used in the workplace, such as etchants, disinfectants and mercury, and implement controls, training and personal protective equipment."
+  },
+  {
+    "id": 488,
+    "domain": "law_ethics_professionalism_and_health_and_safety",
+    "front": "What does RIDDOR require of employers?",
+    "back": "A legal duty to report certain workplace injuries, occupational diseases and specified dangerous occurrences to the Health and Safety Executive."
+  },
+  {
+    "id": 489,
+    "domain": "law_ethics_professionalism_and_health_and_safety",
+    "front": "What immediate steps should be taken after a needlestick or sharps injury?",
+    "back": "Encourage the wound to bleed gently, wash thoroughly with soap and running water, cover with a waterproof dressing, and report the incident immediately following local protocol."
+  },
+  {
+    "id": 490,
+    "domain": "law_ethics_professionalism_and_health_and_safety",
+    "front": "What should be assessed regarding the source patient after a sharps injury?",
+    "back": "Their bloodborne virus status where possible, and the injured person should seek urgent occupational health or emergency department assessment for consideration of post-exposure prophylaxis."
+  },
+  {
+    "id": 491,
+    "domain": "law_ethics_professionalism_and_health_and_safety",
+    "front": "Which regulator is the independent regulator of health and social care in England, including dental practices?",
+    "back": "The Care Quality Commission (CQC)."
+  },
+  {
+    "id": 492,
+    "domain": "law_ethics_professionalism_and_health_and_safety",
+    "front": "What enforcement action can the CQC take against a practice not meeting fundamental standards?",
+    "back": "Action ranging from requirement notices through to suspension or cancellation of registration."
+  },
+  {
+    "id": 493,
+    "domain": "law_ethics_professionalism_and_health_and_safety",
+    "front": "What does HTM 01-05 set out?",
+    "back": "The Department of Health's decontamination standards for reusable dental instruments in primary care, covering cleaning, disinfection and sterilisation."
+  },
+  {
+    "id": 494,
+    "domain": "law_ethics_professionalism_and_health_and_safety",
+    "front": "How can a failure in decontamination practice affect both CQC and GDC oversight?",
+    "back": "Compliance with HTM 01-05 is enforceable through CQC inspection, and failures can also trigger GDC fitness to practise concerns where patient safety has been compromised."
+  },
+  {
+    "id": 495,
+    "domain": "law_ethics_professionalism_and_health_and_safety",
+    "front": "What is a Unit of Dental Activity (UDA)?",
+    "back": "The basis on which NHS dental services in England are commissioned and paid for; a practice is allocated a target number of UDAs to deliver over a contract year."
+  },
+  {
+    "id": 496,
+    "domain": "law_ethics_professionalism_and_health_and_safety",
+    "front": "What treatments fall under NHS Band 2?",
+    "back": "Treatments such as fillings and extractions, attracting a fixed number of UDAs and a corresponding fixed patient charge."
+  },
+  {
+    "id": 497,
+    "domain": "law_ethics_professionalism_and_health_and_safety",
+    "front": "How does private dental fee-setting differ from the NHS UDA banding system?",
+    "back": "Private fees are set by the practice and typically reflect the actual treatment provided, often on a fee-per-item basis, unlike the fixed NHS band charges."
+  },
+  {
+    "id": 498,
+    "domain": "law_ethics_professionalism_and_health_and_safety",
+    "front": "What is the complaints escalation route for unresolved NHS dental treatment complaints?",
+    "back": "From the practice, to NHS England (or the relevant integrated care board), and if still unresolved, to the Parliamentary and Health Service Ombudsman."
+  },
+  {
+    "id": 499,
+    "domain": "law_ethics_professionalism_and_health_and_safety",
+    "front": "Where should an unresolved complaint about private dental treatment be referred?",
+    "back": "The Dental Complaints Service, a free and independent service operated under the auspices of the GDC but functioning at arm's length."
+  },
+  {
+    "id": 500,
+    "domain": "law_ethics_professionalism_and_health_and_safety",
+    "front": "Can the Dental Complaints Service strike a dentist off the register?",
+    "back": "No, it does not have that power and does not investigate fitness to practise, which remains a matter for the GDC if raised separately."
+  },
+  {
+    "id": 501,
+    "domain": "law_ethics_professionalism_and_health_and_safety",
+    "front": "Is a single complaint automatically a fitness to practise referral?",
+    "back": "No, most complaints are resolved locally without ever reaching the GDC, though a pattern of unresolved complaints or a serious safety concern may in due course lead to a referral."
+  },
+  {
+    "id": 502,
+    "domain": "law_ethics_professionalism_and_health_and_safety",
+    "front": "Fill in the blank: the GDC's core guidance document, setting out nine overarching principles, is called ___.",
+    "back": "Standards for the Dental Team"
+  },
+  {
+    "id": 503,
+    "domain": "law_ethics_professionalism_and_health_and_safety",
+    "front": "Which GDC Principle concerns working with colleagues in a way that is in patients' best interests?",
+    "back": "Principle 6."
+  },
+  {
+    "id": 504,
+    "domain": "law_ethics_professionalism_and_health_and_safety",
+    "front": "Which GDC Principle requires dentists to maintain, develop and work within their professional knowledge and skills?",
+    "back": "Principle 7."
+  },
+  {
+    "id": 505,
+    "domain": "law_ethics_professionalism_and_health_and_safety",
+    "front": "Must consent be voluntary as well as informed?",
+    "back": "Yes, consent must be free from pressure or undue influence, and the patient must have the mental capacity to make the decision at the time it is made."
+  },
+  {
+    "id": 506,
+    "domain": "law_ethics_professionalism_and_health_and_safety",
+    "front": "Where a child is not Gillick competent, who must give consent for their treatment?",
+    "back": "A person with parental responsibility, and the treatment must still be in the child's best interests."
+  },
+  {
+    "id": 507,
+    "domain": "law_ethics_professionalism_and_health_and_safety",
+    "front": "Under the Mental Capacity Act, whose past and present wishes, beliefs and values should be taken into account in a best interests decision?",
+    "back": "The patient's own past and present wishes, beliefs and values, alongside consultation with those close to them where practicable."
+  },
+  {
+    "id": 508,
+    "domain": "law_ethics_professionalism_and_health_and_safety",
+    "front": "Are dental practices classed as data controllers under UK GDPR?",
+    "back": "Yes, with legal obligations to process patient information lawfully, fairly and transparently, keep it secure, and retain it only as long as necessary."
+  },
+  {
+    "id": 509,
+    "domain": "law_ethics_professionalism_and_health_and_safety",
+    "front": "What is one obvious presentation of dental neglect a dentist might observe?",
+    "back": "Widespread untreated caries, or repeated failure to attend for necessary treatment despite appropriate support and reminders."
+  },
+  {
+    "id": 510,
+    "domain": "law_ethics_professionalism_and_health_and_safety",
+    "front": "What signs of bruising pattern should raise concern for non-accidental injury?",
+    "back": "Facial or intraoral bruising inconsistent with the explanation given, or bruising in a pattern suggestive of a hand or an implement."
+  },
+  {
+    "id": 511,
+    "domain": "law_ethics_professionalism_and_health_and_safety",
+    "front": "Why might injuries at different stages of healing raise a safeguarding concern?",
+    "back": "They suggest repeated episodes of injury rather than a single accidental event."
+  },
+  {
+    "id": 512,
+    "domain": "law_ethics_professionalism_and_health_and_safety",
+    "front": "In dental COSHH assessments, what substance requires particular controls where amalgam is still used?",
+    "back": "Mercury, alongside etchants, disinfectants and various chemical decontamination agents."
+  },
+  {
+    "id": 513,
+    "domain": "law_ethics_professionalism_and_health_and_safety",
+    "front": "What type of workplace incident in a dental setting would be reportable under RIDDOR?",
+    "back": "A significant sharps injury that results in the transmission of a bloodborne virus, along with other specified dangerous occurrences."
+  },
+  {
+    "id": 514,
+    "domain": "law_ethics_professionalism_and_health_and_safety",
+    "front": "What five domains does the CQC inspect dental practices against?",
+    "back": "Safe care, effective treatment, a caring approach, responsiveness to patient needs, and good leadership and governance."
+  },
+  {
+    "id": 515,
+    "domain": "law_ethics_professionalism_and_health_and_safety",
+    "front": "What is NHS Band 1 treatment intended to cover?",
+    "back": "Examination, diagnosis and prevention."
+  },
+  {
+    "id": 516,
+    "domain": "law_ethics_professionalism_and_health_and_safety",
+    "front": "What is NHS Band 3 treatment intended to cover?",
+    "back": "More complex treatment such as crowns, bridges and dentures."
+  },
+  {
+    "id": 517,
+    "domain": "law_ethics_professionalism_and_health_and_safety",
+    "front": "Does an NHS-banded charge vary according to how many individual procedures fall within that band?",
+    "back": "No, each band attracts a fixed number of UDAs and a corresponding fixed patient charge regardless of the number of individual procedures within it."
+  },
+  {
+    "id": 518,
+    "domain": "law_ethics_professionalism_and_health_and_safety",
+    "front": "What can be a consequence of a serious departure from expected standards disclosed by a complaint?",
+    "back": "It may in due course lead to a fitness to practise referral, whether the treatment was provided on the NHS or privately."
+  },
+  {
+    "id": 519,
+    "domain": "law_ethics_professionalism_and_health_and_safety",
+    "front": "Which body reviews unresolved complaints about NHS care independently, after local resolution has failed?",
+    "back": "The Parliamentary and Health Service Ombudsman."
+  },
+  {
+    "id": 520,
+    "domain": "law_ethics_professionalism_and_health_and_safety",
+    "front": "Scenario: a dentist believes their own competence has declined due to a health condition. What obligation follows from Principle 8?",
+    "back": "Registrants have an obligation to raise concerns about their own fitness to practise where patient safety may be at risk, rather than waiting for someone else to act."
+  },
+  {
+    "id": 521,
+    "domain": "law_ethics_professionalism_and_health_and_safety",
+    "front": "Why is a signature on a consent form not, by itself, sufficient evidence of valid consent?",
+    "back": "Consent is a process of dialogue explaining what the treatment involves, its material risks and benefits, and reasonable alternatives, not merely a signature."
+  },
+  {
+    "id": 522,
+    "domain": "law_ethics_professionalism_and_health_and_safety",
+    "front": "What must be discussed with a patient alongside the material risks and benefits of a proposed treatment?",
+    "back": "What would happen if no treatment were given, and what reasonable alternatives exist, including doing nothing."
+  },
+  {
+    "id": 523,
+    "domain": "law_ethics_professionalism_and_health_and_safety",
+    "front": "Under the Mental Capacity Act, can a person be treated as unable to make a decision simply because they make an unwise choice?",
+    "back": "No, a person is not to be treated as unable to make a decision merely because they make an unwise decision."
+  },
+  {
+    "id": 524,
+    "domain": "law_ethics_professionalism_and_health_and_safety",
+    "front": "Before deciding someone lacks capacity, what practicable steps must first be taken?",
+    "back": "All practicable steps to help the person make their own decision must be taken without success before they are treated as unable to decide."
+  },
+  {
+    "id": 525,
+    "domain": "law_ethics_professionalism_and_health_and_safety",
+    "front": "What does covering up or minimising a clinical error, rather than disclosing it under duty of candour, do to the original problem?",
+    "back": "It compounds the original problem considerably, and failing to disclose an error is itself a serious professional failing."
+  }
+]
